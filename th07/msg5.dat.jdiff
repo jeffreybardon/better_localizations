@@ -218,34 +218,34 @@
     "12": {
         "40_0": {
             "lines": [
-                "A human, I see."
+                "You're a human, I see."
             ]
         },
         "120_0": {
             "lines": [
-                "You're just what I need."
+                "Just what I needed."
             ]
         },
         "210_0": {
             "lines": [
-                "I'll be taking it all..."
+                "I shall drain every drop"
             ]
         },
         "300_0": {
             "lines": [
-                "Every last bit of your spring!"
+                "of spring from you!"
             ]
         }
     },
     "10": {
         "60_0": {
             "lines": [
-                "Ahh, it's gettin' a lot warmer."
+                "Ahh, it's getting a lot warmer."
             ]
         },
         "100_0": {
             "lines": [
-                "So this is what all the commotion was about..."
+                "So this is why everyone here is noisy..."
             ]
         },
         "101_h1_0": {
@@ -256,12 +256,12 @@
         },
         "101_0": {
             "lines": [
-                "You're a <i$living> human."
+                "It's because of a living human."
             ]
         },
         "102_0": {
             "lines": [
-                "There wouldn't be a commotion if I were a corpse?"
+                "If I'm a dead human, won't they make noise?"
             ]
         },
         "103_0": {
@@ -271,114 +271,115 @@
         },
         "104_0": {
             "lines": [
-                "A human arriving at Hakugyokurou..."
+                "For a human to have come all the way to Hakugyokurou,"
             ]
         },
         "105_0": {
             "lines": [
-                "Should mean death in and of itself."
+                "death's the only possible explanation."
             ]
         },
         "106_0": {
             "lines": [
-                "I'm pretty sure I'm alive."
+                "Well, I'm alive."
             ]
         },
         "107_0": {
             "lines": [
-                "Yet you went beyond that barrier of your own volition."
+                "Yet you passed through that barrier with your own will."
             ]
         },
         "108_0": {
             "lines": [
-                "It's no wonder your folly was causing",
-                "a commotion amongst the spirits."
+                "It's no wonder the spirits here are making",
+                "a great clamor at your foolishness."
             ]
         },
         "109_0": {
             "lines": [
-                "Say, this place sure is nice 'n warm."
+                "Well, it's warm here, anyway. Nice and warm."
             ]
         },
         "110_0": {
             "lines": [
-                "Well, I should hope so. The essence of ",
-                "Gensokyo's spring has been gathered here."
+                "That's because we've gathered all the spring essence ",
+                "in Gensokyo."
             ]
         },
         "111_0": {
             "lines": [
-                "Ordinary cherry blossoms are in a bloom beyond compare."
+                "The ordinary cherry blossoms are beyond even",
+                "the most idealized full bloom."
             ]
         },
         "112_0": {
             "lines": [
-                "Corpses havin' a pleasant flower viewing.",
+                "Dead bodies having a nice flower-viewing.",
                 "How elegant."
             ]
         },
         "113_0": {
             "lines": [
-                "Yet even this is not enough to bring",
-                "the Saigyou Ayakashi to full bloom..."
+                "Yet even this immaculate bloom",
+                "is insufficient for the Saigyou Ayakashi..."
             ]
         },
         "114_0": {
             "lines": [
-                "The Saigyou Ayakashi?"
+                "/"Saigyou Ayakashi/"?"
             ]
         },
         "115_0": {
             "lines": [
-                "The youkai cherry blossom, our pride and joy."
+                "Our pride and joy, our youkai cherry blossom."
             ]
         },
         "116_0": {
             "lines": [
-                "Well, now you've got me curious."
+                "I'd like to take a look at that, myself."
             ]
         },
         "117_0": {
             "lines": [
-                "More to the point, with just the slightest bit more",
-                "spring, even our Saigyou Ayakashi will fully blossom."
+                "With just a little more spring,",
+                "our Saigyou Ayakashi will reach full bloom."
             ]
         },
         "118_0": {
             "lines": [
-                "That trace of spring you brought here..."
+                "The tiny trace of spring that you brought here..."
             ]
         },
         "119_0": {
             "lines": [
-                "...will be the final touch, so to speak."
+                "...will bring us yet another step closer to full bloom."
             ]
         },
         "120_0": {
             "lines": [
-                "After the trouble I went through gatherin' all this?",
-                "Don't think I'll be handin' it over that easily!"
+                "After all that trouble collecting my spring,",
+                "I won't hand it to you so easily!"
             ]
         },
         "121_0": {
             "lines": [
-                "All we need is that final touch!"
+                "We're one step short of full bloom!"
             ]
         },
         "122_0": {
             "lines": [
-                "I have a better idea. ",
-                "Why don't I take all the spring you've gathered..."
+                "Or better yet, what would you say if ",
+                "I were to snatch away all of your spring..."
             ]
         },
         "123_0": {
             "lines": [
-                "...And make that youkai cherry blossom bloom myself?"
+                "...to make those cherry blossoms bloom for myself?"
             ]
         },
         "124_0": {
             "lines": [
-                "I won't be handing over any spring I've gathered."
+                "I will not hand over my spring!"
             ]
         },
         "125_0": {
@@ -394,36 +395,35 @@
         },
         "127_0": {
             "lines": [
-                "...are next to none!\u0014(TL note: A play off of Goemon Ishikawa XIII's line \"There is nothing my Zantetsuken cannot cut,\" from the series Lupin the Third.)"
+                "...are as good as none!"
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "Now then, why don't I have you show",
-                "me the way to that youkai tree?"
+                "So, show me the way to the Saigyou Ayakashi, will you?"
             ]
         },
         "61_0": {
             "lines": [
-                "Well... As long as the Saigyou Ayakashi ",
-                "is brought to full bloom..."
+                "Anyway, the Saigyou Ayakashi will bloom, ",
+                "so my job is fulfilled."
             ]
         },
         "62_0": {
             "lines": [
-                "I can't say I'm happy about it, though."
+                "But I have a bad feeling about this..."
             ]
         },
         "63_0": {
             "lines": [
-                "Who said I was gonna bloom the Saigyou Ayakashi?"
+                "Who said I was going to bloom the Saigyou Ayakashi?"
             ]
         },
         "64_0": {
             "lines": [
-                "I just wanna go flower-viewin'."
+                "I just want to have a flower-viewing."
             ]
         }
     },

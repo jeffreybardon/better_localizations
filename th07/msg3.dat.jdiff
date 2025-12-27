@@ -157,7 +157,7 @@
         },
         "101_0": {
             "lines": [
-                "<i$This> bitter evening? Nice?"
+                "<i$This> harsh evening? Nice?"
             ]
         },
         "102_h1_0": {
@@ -168,61 +168,61 @@
         },
         "102_0": {
             "lines": [
-                "It's nice."
+                "Yes, I'd say so."
             ]
         },
         "103_0": {
             "lines": [
-                "You must be a <u$field magician> then.\u0014(TL note: Referencing Aesop's fable, \"The Country Mouse and the City Mouse.\")"
+                "Then surely you are a magician of the untamed fields."
             ]
         },
         "104_0": {
             "lines": [
-                "Is that better than a greenhouse magician?"
+                "As opposed to a magician from a greenhouse?"
             ]
         },
         "105_0": {
             "lines": [
-                "I'm more of a city magician."
+                "As opposed to a magician from a city sect."
             ]
         },
         "106_0": {
             "lines": [
-                "Oh? Then welcome to the frontier."
+                "Oh? Well then. Welcome to the borderlands."
             ]
         },
         "107_0": {
             "lines": [
-                "Springtime's awfully cold out in the sticks,",
-                "isn't it..."
+                "Springtime seems dreadfully cold out here",
+                "in the sticks."
             ]
         },
         "108_0": {
             "lines": [
-                "And who's fault is it that we're havin'",
-                "a snowstorm like this in spring anyway?"
+                "Not normally. Someone has been causing",
+                "these springtime snowstorms."
             ]
         },
         "109_0": {
             "lines": [
-                "Not mine, if that's what you're implying."
+                "It's not me, if that's what you're implying."
             ]
         },
         "110_0": {
             "lines": [
-                "Really."
+                "Oh really?"
             ]
         },
         "111_0": {
             "lines": [
-                "Still, seems like you'd at least have",
-                "a bit of spring on ya."
+                "Even so, it seems that you hold",
+                "some tiny spring of your own."
             ]
         },
         "112_0": {
             "lines": [
-                "Then why don't I at least take",
-                "your bit of spring as well?"
+                "Well, perhaps I shall partake of",
+                "your small spring as well?"
             ]
         }
     },
@@ -240,18 +240,18 @@
         },
         "62_0": {
             "lines": [
-                "I'm not your normal human, ",
-                "I'll have you know."
+                "I'm not your normal human, I'll have",
+                "you know."
             ]
         },
         "63_0": {
             "lines": [
-                "Are you an abnormal human?"
+                "Are you an abnormal human, then?"
             ]
         },
         "64_0": {
             "lines": [
-                "I'm normal! Just not human!!"
+                "I'm normal! I'm just not human!!"
             ]
         }
     },

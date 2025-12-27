@@ -192,18 +192,18 @@
     "10": {
         "60_0": {
             "lines": [
-                "This barrier's incredible.",
-                "There's no way a novice like me could crack it."
+                "This barrier is amazing.",
+                "There's no way a novice like me can solve its mystery."
             ]
         },
         "61_0": {
             "lines": [
-                "Wonder what it's hidin'..."
+                "Is there something I'm missing?"
             ]
         },
         "101_0": {
             "lines": [
-                "Hehehe..."
+                "Eh, heh, heh."
             ]
         },
         "102_h1_0": {
@@ -214,37 +214,37 @@
         },
         "102_0": {
             "lines": [
-                "That's a trade secret."
+                "It's a trade secret."
             ]
         },
         "103_0": {
             "lines": [
-                "<i$Au pas, camarade...>\u0014(TL note: An attempt to use a phrase of the French children's song \"I Lost the 'Do' of My Clarinet (J'ai perdu le do de ma Clarinette)\" like \"open sesame\".)"
+                "\"Open sesame\"..."
             ]
         },
         "104_0": {
             "lines": [
-                "Yeah, that isn't going to work."
+                "That isn't going to work, kid."
             ]
         },
         "105_0": {
             "lines": [
-                "Not that it matters, but who even are you?"
+                "Fine, then. So who are you?"
             ]
         },
         "106_0": {
             "lines": [
-                "Doesn't matter, right?"
+                "It doesn't matter, does it?"
             ]
         },
         "107_0": {
             "lines": [
-                "Yeah, guess it doesn't."
+                "Yeah, I guess it doesn't."
             ]
         },
         "108_0": {
             "lines": [
-                "So, the door opens when I defeat you?"
+                "So, if I defeat you, you'll open the gate?"
             ]
         },
         "109_h1_0": {
@@ -260,12 +260,12 @@
         },
         "110_0": {
             "lines": [
-                "A good friend."
+                "Yeah, a good friend."
             ]
         },
         "111_0": {
             "lines": [
-                "Yes, a good friend!"
+                "My friend, yes..."
             ]
         },
         "112_h1_0": {
@@ -276,74 +276,74 @@
         },
         "112_0": {
             "lines": [
-                "That's wonderful!",
-                "At last, our Lyrica's made a friend!"
+                "Wonderful!",
+                "At last, Lyrica has made a friend!"
             ]
         },
         "113_0": {
             "lines": [
-                "Not to cut to the chase, but."
+                "Alright, then."
             ]
         },
         "114_0": {
             "lines": [
-                "I'd like you all to do me a friendly favor and open this door."
+                "My good friend, would you kindly open this door?"
             ]
         },
         "115_0": {
             "lines": [
-                "Won't you do us a friendly favor ",
-                "and stay for a song first?"
+                "Won't you listen to just one song first, my good friend?"
             ]
         },
         "116_0": {
             "lines": [
-                "Don't forget to tip after the performance.",
-                "Consider it a friendly favor."
+                "It's a song of welcome.",
+                "To a dear new friend."
             ]
         },
         "117_0": {
             "lines": [
-                "Friendship!"
+                "Friend..."
             ]
         },
         "118_0": {
             "lines": [
-                "I'm not gettin' the sense you three can open that anyway."
+                "If I didn't know any better,",
+                "I'd say you don't plan on opening this barrier."
             ]
         },
         "119_0": {
             "lines": [
-                "Alright, let the performance begin!",
-                "Break a leg, sisters!"
+                "Well then, let's start the performance!",
+                "Sisters, get ready!"
             ]
         },
         "120_0": {
             "lines": [
-                "She's your friend, isn't she?",
-                "Why don't you play solo for a bit."
+                "She's your friend.",
+                "Play solo for a bit."
             ]
         },
         "121_0": {
             "lines": [
-                "Aww!"
+                "Hey..."
             ]
         },
         "122_0": {
             "lines": [
-                "Alright, alright. We'll be here if you need a hand."
+                "Alright, alright. I'll help you whenever you need."
             ]
         },
         "123_0": {
             "lines": [
-                "A hand seems pretty unnecessary."
+                "You don't need more help my friend, do you?"
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "There. Is the door gonna open now?"
+                "Well, will you open the door?"
             ]
         },
         "61_0": {
@@ -353,7 +353,7 @@
         },
         "62_0": {
             "lines": [
-                "But don't you also need to get inside?"
+                "Don't you go through it now and then?"
             ]
         },
         "63_0": {

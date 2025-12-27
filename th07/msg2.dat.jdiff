@@ -99,22 +99,22 @@
     "10": {
         "60_0": {
             "lines": [
-                "Ah..."
+                "Ahhh..."
             ]
         },
         "61_0": {
             "lines": [
-                "Seems like somethin' at least sorta human might live here."
+                "Something human-like seems to live here."
             ]
         },
         "62_0": {
             "lines": [
-                "Like a cat maybe. Or a dog. Or a fox."
+                "A cat, a dog, or a fox, maybe?"
             ]
         },
         "102_0": {
             "lines": [
-                "<i$Springing to your call...>\u0014(TL note: The first half of the catchphrase for when the genie jumps out of the lamp in the anime Hakushon Dai-maou. The implied other half is the \"ta-dah!\" for Chen's entrance.)"
+                "<i$I hear the voices calling...>\u0014(TL note: The first half of the catchphrase for when the genie jumps out of the lamp in the anime Hakushon Dai-maou. The implied other half is the \"ta-dah!\" for Chen's entrance.)"
             ]
         },
         "103_h1_0": {
@@ -125,62 +125,62 @@
         },
         "103_0": {
             "lines": [
-                "...And what springs out gets hammered down, right?"
+                "\"A stake that sticks out gets hammered down,\" eh?"
             ]
         },
         "104_0": {
             "lines": [
-                "Well? What's your business here?"
+                "So, what's your purpose here?"
             ]
         },
         "105_0": {
             "lines": [
-                "Nothing concernin' you four-legged things."
+                "No purpose that involves four-legged things."
             ]
         },
         "106_0": {
             "lines": [
-                "You've lost your way, haven't you?",
-                "That's what ending up at the Village of the Lost means."
+                "Wanderer, to have arrived at this place,",
+                "you must surely have lost your way?"
             ]
         },
         "107_0": {
             "lines": [
-                "There wasn't a way to lose."
+                "I never had a way."
             ]
         },
         "108_0": {
             "lines": [
-                "Visibility was poor in that snowstorm,",
-                "and the wind was changing by the moment..."
+                "The recent snowstorm obscured your vision,",
+                "and the wind's constantly changing."
             ]
         },
         "109_0": {
             "lines": [
-                "Oh, the wind was changin'?",
-                "Figures."
+                "So the direction of the wind changed, you say?",
+                "No wonder."
             ]
         },
         "110_0": {
             "lines": [
-                "I bet you don't even know your way back anymore!"
+                "And now you don't know the way back."
             ]
         },
         "111_0": {
             "lines": [
-                "Figures."
+                "No wonder."
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "Figures,"
+                "No wonder,"
             ]
         },
         "60_1": {
             "lines": [
-                "that I run into some rando."
+                "I keep facing random people."
             ]
         }
     },
