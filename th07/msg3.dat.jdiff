@@ -1,0 +1,414 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ah, the night's cold..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "And I can't see a thing."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Is your level of spring insufficient even to push away this cold?"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Seven-Colored Puppeteer",
+                "Alice Margatroid"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Well, that might be true."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Long time no see."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "But we've only just met."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "No, that's not what I meant."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Long time no visibility?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Don't you remember me?",
+                "Well, either way is fine though."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Setting that aside,",
+                "what did you mean by \"level of spring\"?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "I was referring to the springtime in your head."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I hope mine's not too high."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Still, why has this winter lasted so long?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "There's someone who's gathering the spring."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "And you have nothing to do with it?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Of course not."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Bye."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Hey!"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "We've only just met after so long, old friend.",
+                "Have you only brought me your life as a gift?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "And why am I being called \"old friend\"",
+                "by this seven-colored magical moron?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "After all, shrine maidens are two colors."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Your power is only 28.5714 ",
+                "percent as powerful as mine."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "By \"spring,\""
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Were you referring to these cherry petals?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You were gathering them without knowing that?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "No, I mean, uh... yes."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "It's..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "...rather nice out tonight."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "<i$This> bitter evening? Nice?"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Seven-Colored Puppeteer",
+                "Alice Margatroid"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "It's nice."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "You must be a <u$field magician> then.\u0014(TL note: Referencing Aesop's fable, \"The Country Mouse and the City Mouse.\")"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Is that better than a greenhouse magician?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "I'm more of a city magician."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Oh? Then welcome to the frontier."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Springtime's awfully cold out in the sticks,",
+                "isn't it..."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "And who's fault is it that we're havin'",
+                "a snowstorm like this in spring anyway?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Not mine, if that's what you're implying."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Really."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Still, seems like you'd at least have",
+                "a bit of spring on ya."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Then why don't I at least take",
+                "your bit of spring as well?"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Has winter always been this hectic?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Normal humans aren't out and about",
+                "very much when it's this cold."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm not your normal human, ",
+                "I'll have you know."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Are you an abnormal human?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'm normal! Just not human!!"
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "I feel like I'm just wasting my time here..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I wonder how the mistress is doing?"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Why don't you worry about yourself",
+                "if you have time to worry about others?"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Seven-Colored Puppeteer",
+                "Alice Margatroid"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Oh yes, I'm worried about myself now."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "So, for what reason do you worry?",
+                "About yourself."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Because I'm carrying only three changes of clothes.",
+                "For myself."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Ah, good reason."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "That, and a spare set of knives too."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Ah, I... Knives?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "You seem to have few worries. Isn't that nice."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "How rude!"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "I don't have few worries, I have none!"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Well, if you want to put it that way."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "So, you, who has no worries."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Yes?"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Do you know who it was that stole spring",
+                "or sprinkled winter all over this land?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "I might happen to have some general idea about that."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Where are they?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "Such trifling information rarely concerns me."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "It is not a trifle."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Alright, spill it. Who's behind this whole affair?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Downwind, there's a decadent Shinto shrine."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "There's a shrine maiden there who dreams of spring...",
+                "I bet she's behind all this."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Somehow, I doubt that very much."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Well, joking aside."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Haven't you noticed that the spring follows",
+                "you as you gather cherry petals?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "...I bet it's upwind then."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "I haven't said my point yet..."
+            ]
+        }
+    }
+}
