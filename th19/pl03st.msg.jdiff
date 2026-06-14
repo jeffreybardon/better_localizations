@@ -1,0 +1,782 @@
+{
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's a ridiculous idea to try and defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "Just as Lady Yukari said,",
+                "the phantoms are reacting unusually."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "If this is caused by the",
+                "liberation of the land,"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Then perhaps it's a good thing?"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Yeah, let's report something like that."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Oh, a beast youkai."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Why is a beast youkai in the village?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Oh, you're investigating too? ",
+                "I thought the Moriya Shrine would be quietly observing."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Strange beast youkai keep appearing,",
+                "so I had to look into it."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Speaking of, a beast youkai like you is investigating too?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Well, I guess you could call it an investigation."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Oh, that's right."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "I was told by Lady Kanako to think of",
+                "all beast youkai as enemies."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Hahaha, that’s a good way of thinking.",
+                "And a great way to an early grave as well!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Beast youkai...",
+                "Come to think of it, the number of beast spirits is unusual."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "So a beast youkai appeared at Moriya Shrine?",
+                "Let me take a little look."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "It seems like I'll just have to keep",
+                "clearing out the beast youkai one by one."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "There isn't much difference in the",
+                "number of spirits throughout Gensokyo."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "That means that this isn't an incident",
+                "instigated for someone's benefit."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I'd like to chalk it up as a natural phenomenon but..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Well, now."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Aren't you that fox who can't hide her tails?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Hm?",
+                "|\tYou're a \t,\ttube-fox?\t,lowly fox?",
+                "You're a tube-fox?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Why are you at the Moriya Shrine?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Sanae told me she was busy, so I'm",
+                "house-sitting in her absence."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "House-sitting...? It didn't seem like that,",
+                "the way Sanae spoke about it."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Well, I shouldn't put much faith",
+                "in the words of a tube-fox."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "My, how upsetting.",
+                "Even though dear Sanae asked me to."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Send away any suspicious trespassers, she said."
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Ugh."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hmm, there's nothing fun about",
+                "two foxes bamboozling each other."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "|\tInstead, I'd love to hear a well-informed, intelligent \t,\ttube-fox\t,you",
+                "Instead, I'd love to hear a well-informed, intelligent tube-fox's opinion on something."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "If you were trying to gain something",
+                "from this incident, where would you hide?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oooh, so you think I'm telling the truth?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Well, come on, what do you think?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "It doesn't matter if it's true or not.",
+                "Either way, don't you think there's value in drawing out some intel?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Hahaha, so you <i$are> a fox, after all..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "I knew it after taking one look at you.",
+                "Staying in Gensokyo can't be good for me."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "I see... If you hide deep beneath the Earth's surface,",
+                "you could do whatever you want to it, couldn't you?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "And guess what?",
+                "There happen to be similar beast spirits underground too."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "As expected from a tube-fox.",
+                "You understand the criminal mind well."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Wow! You scared me."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Thought there was someone I didn't know.",
+                "Didn't expect to see a nine-tailed fox."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Oh, it's Orin?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I often see you playing with my dear little Chen. I am grateful for that."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ahh, no problem."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Thanks to you, my once cute little Chen is",
+                "now finding corpses for fun."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Nyaaahaha!",
+                "The training was worth it!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "So, need anything from me?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Do you know anything about the incident",
+                "happening on the surface?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Incident...",
+                "Ah, you must mean the Great Phantasmagorial Release Festival?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "It's the best!",
+                "The scent of death was everywhere!"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "I never thought there'd be such a fancy",
+                "event on the surface."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Who's the organizer?",
+                "Could it be that one from your place?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Ah, I'm sorry, never mind me.",
+                "You're not someone who'll get what I'm talking about."
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Taking advantage of the Great Phantasmagorial Release Festival on the surface?",
+                "More beast spirits have been showing up underground too."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Yeah, there sure are a lot."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "But, while they're the same type of spirits, their origins are different."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Is that so?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The spirits here in Hell seem to be",
+                "gushing out from the depths more and more."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "They are like empty shells of vengeful spirits",
+                "whose grudges have faded away..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Do you understand it, this feeling of dissatisfaction and emptiness?"
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Taking advantage of the Great Phantasmagorial Release Festival on the surface?",
+                "More beast spirits have been showing up underground too."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "From the depths of the earth, huh?",
+                "I certainly can detect some unusual energy from there."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Could this be the passage to the Underground Geyser Center?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "What's under here?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Huh? Who the hell are you?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Aren't you the shikigami from Yukari's place?",
+                "What brings you here?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Huh!?",
+                "Why are you here, Miss Suika?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "...I see, so Yukari's making moves too?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It's quite smart to set your sights on Former Hell, but..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Is there something up ahead?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "A curse lies beyond here, and exhausted from that curse,",
+                "organic life lies dormant."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "If your goal is to investigate the anomaly,",
+                "this could be quite the detour."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "But if you still want to go to the Earth's depths, I'm not gonna stop you."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Oh, this feeling...",
+                "I'll end up having to go, won't I."
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Well, you don't have much of a choice."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "If you want to go this far,",
+                "go forth, to the Earth's deepest pits!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You're trying to force me to go, aren't you?",
+                "Even though I really don't want to..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I wonder what lies in wait for me up ahead..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh, by the way,",
+                "I have a little bit of advice."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Watch out for traps.",
+                "Cleverly hidden ones."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Wha?"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "If you sleep in a place like that,",
+                "you're gonna get burned."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Woooah, this isn't anything like I expected!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "This stench of rotten blood.",
+                "Is this place, in itself, a trap?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Is there really someone here in a place like this?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Huh!? A fox?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "For an animal to come to a place like this. Are you bored to death?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Or maybe you're Toutetsu's friend?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "So there was someone...",
+                "I can't believe it."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I am Chiyari Tenkajin. ",
+                "And you?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Ah, I'm Ran Yakumo.",
+                "I'm here to investigate an incident that's happening on the surface."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "You're investigating an incident?",
+                "Oh! Is it that thing that Toutetsu's been doing?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "That idiotic little turf war doesn't",
+                "interest me in the slightest."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Toutetsu is gonna be the sole winner anyway.",
+                "What a load of bull."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "What did you say?",
+                "The incident is Toutetsu's handiwork!?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Well, Toutetsu's",
+                "not here right now."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "So if you're looking for her, you'd better leave and look somewhere else."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Unfortunately for you, it'll take blood, sweat,",
+                "and tears to leave here alive! (but mostly blood)"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "You got me!",
+                "|\tYou can't hold a candle to \t,\tToutetsu\t,her",
+                "You can't hold a candle to Toutetsu, but I still had some fun."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Where is Toutetsu?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Everyone thought she was gonna do something bad. ",
+                "But for some reason, she's blended in with Gensokyo."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "But in the end she did cause something bad."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "|\tI don't know for sure where \t,\tToutetsu\t,she",
+                "I don't know for sure where Toutetsu went."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "But it's gotta be that place, right?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "That place..."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "I see, I see. Now there's animal blood too..",
+                "It's getting even better."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "...The Animal Realm, hm?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I wonder when it turned into such a city."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "It used to have more of a rotten smell back when I was here.",
+                "It was a hellish wilderness."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Long time no see."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Ran, or is it Ran Yakumo these days?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Long time indeed. So you're the head of the Gouyoku Alliance now?",
+                "Yuuma Toutetsu."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "You are as reckless as ever.",
+                "What are you trying to do, making a mess of the surface?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Who, me? Making a mess of the surface?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Don't be stupid. The surface made a mess of itself."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "If anything,",
+                "I'm the one trying to set things right."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "By making the surface Gouyoku Alliance turf!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "That is just the thing the instigator would say."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Ah, it's all coming back to me now."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "I got so sick of the ideology of beasts,",
+                "I left this place and never looked back."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "But now, you're the aide to the ruler of Gensokyo?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "We're badgers from the same burrow, you and me."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Hmph, awfully cruel, calling me a badger.",
+                "Don't lump foxes together with those things."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Ah, uh, sorry 'bout that."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "At any rate, there will be no need to report this to Lady Yukari."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Because your ambitions will be stopped here!"
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Keh heh."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "While you were stewing in tepid waters,",
+                "I was being tempered in a blazing kiln."
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "This fight was over before it even started!"
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "Beasts should live by the laws of beasts!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Ain't it a miserable thing,",
+                "to see your old pal turn soft."
+            ]
+        }
+    }
+}

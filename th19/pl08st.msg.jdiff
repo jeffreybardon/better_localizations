@@ -1,0 +1,751 @@
+{
+    "3": {
+        "4_0": {
+            "lines": [
+                "The Kiketsu Family, the Keiga Family,",
+                "and the Gouyoku Alliance..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Phew, what a busy tube-fox I am."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Heyyyyy, Sanae!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Miss Tsukasa, what can I do for you today?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Won't you lend me the shrine? Just for a bit."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "U-um, what for?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I want to make it a base for the beast youkai of the mountain.",
+                "You’ll let me do that, won’t you, Sanae?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Don't be silly!",
+                "Why would we ever..."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Regardless, we don’t have a moment to lose."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "At this rate, we’ll be overrun ",
+                "by those weird beast youkai."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I was just about to go investigate myself."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "But still, I can’t just lend you our shrine."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Have a good day!"
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "The shrine is not up for grabs."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "The Keiga Family can't be relied on.",
+                "They've got nothing between the ears."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "And I'm certain the Gouyoku Alliance will ",
+                "tear themselves apart. So that just leaves..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "As expected, it's going to be the Kiketsu Family.",
+                "Their ideology suits me just fine too."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "|\tYou're a \t,\ttube-fox?\t,lowly fox?",
+                "You're a tube-fox?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Well, now.",
+                "Aren't you that fox who can't hide her tails?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "What is someone like you doing at the Moriya Shrine?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Sanae told me she was busy, so I'm",
+                "house-sitting in her absence."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "House-sitting...? It didn't seem like that,",
+                "the way Sanae spoke about it."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Well, I shouldn't put much faith",
+                "in the words of a tube-fox."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "My, how upsetting.",
+                "Even though dear Sanae asked me to."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Send away any suspicious trespassers, she said."
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Ugh."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "There's nothing fun about two foxes",
+                "bamboozling each other in a place like this..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Are you investigating the incident?",
+                "You've been wasting your time here then."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "If you're looking for people who are up to no good,",
+                "you should delve into the Underworld."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "There's nowhere to hide up on the surface."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "...It looks like she bought it.",
+                "That's good."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "The Gouyoku Alliance is the biggest concern.",
+                "|\tLet that stuck-up \t,\tnine-tails\t,the one just now",
+                "Let that stuck-up nine-tails deal with them."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "If you were trying to gain something",
+                "from this incident, where would you hide?"
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "There used to be a sanctuary for spirits around here,",
+                "but an animal ate them all and awakened as a youkai."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "That sounds like the Kiketsu Family's work."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "If I want to get in good with the Kiketsu Family,",
+                "I just have to win that guy over."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "A fox...?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I work for your boss.",
+                "Running errands."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Ah, so you are the one Lady Yachie spoke of.",
+                "|\tA \t,\ttube-fox\t,spy",
+                "A tube-fox, are you?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Yeah... I just thought I should stop by",
+                "and introduce myself..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I heard a mountain monkey was driven out of their pack,",
+                "and awoke by eating this sanctuary's spirits..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Shush! I told the Family I was born from a stone",
+                "that was struck by a thunderbolt!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "From now on, spread this story, alright?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Okay, okay."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "And besides, I have no reason to confide in you."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Those who only run their mouths can't be trusted.",
+                "That's what I believe."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Hm hm hm, so you want to see if I'm all talk?"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "So—have we reached an understanding?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It's not that. Pay attention."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I had to put a stop to our battle."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Someone hunting for you is approaching us."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "...All right, I'll figure something out."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "So you are all talk."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Is it safe over this way?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Aagh, I'm so tired.",
+                "I'll just have a little break."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Hey, you."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "What were you doing, speaking so intimately with",
+                "the new blood from the Kiketsu Family?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Could it be, you're going back on your promises to",
+                "|\t\t,\tthe Keiga family\t,us",
+                "the Keiga family...?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Not at all, you've got the wrong idea.",
+                "That monkey was just picking a fight with me."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I was only looking into the movements of the Kiketsu Family and",
+                "the Gouyoku Alliance, like you requested."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Heh heh heh."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Well, it's fine.",
+                "Even if you're betraying us."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Are you saying it's fine if I betray you?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Punishing traitors is also enjoyable."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Hahahah."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "|\tIsn't that right, \t,\ttube-fox\t,double dealer",
+                "Isn't that right, tube-fox?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Did you really believe your connection to the",
+                "Kiketsu Family would go unnoticed?!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "H-hey, it's just a misunderstandingǃ"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Finding out what the Kiketsu Family are up to,",
+                "that was the job you gave me."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So I have to get an in with the Kiketsu Family.",
+                "That's to be expected, right?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Ah, of course, of course."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yes, yes, you're so level-headed."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "In that case, you can continue your investigations."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "This time, the target is a little unusual...",
+                "But I'm sure you can handle it."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "I'll be taking back your advance fee!"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "So it's not the Kiketsu Family or the Gouyoku Alliance,",
+                "but some other group I'm looking into?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "That Saki could easily bump me off.",
+                "Lying to her was a bad idea after all."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "She must be sending me to Hell to silence me.",
+                "That much is obvious."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Now she suspects that I am a double agent.",
+                "What to do, what to do..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Oh my, welcome to Hell."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "No matter who, no matter when,",
+                "all are welcome in Hell."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "W-who are you?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I am Hisami Yomotsu.",
+                "A guide of Hell."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Now, where would you like to go today?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Ah, em, well."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Right, I came to investigate the incident on the surface."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Um, that said, it has nothing to do with Hell right?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Ho-hoh, this is a surprise."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "It's still so soon, and yet, there are people who have",
+                "traced this incident back to Hell already."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Then allow me to guide you to the one you seek.",
+                "But first..."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "In keeping the spirit of Hell,",
+                "I'm going to <b$make> you a spirit of Hell!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Aaaaah!",
+                "Such splendid strength."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Now then, I shall guide you into Hell."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No, maybe not into Hell..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Eh? Were you thinking of going home?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Or rather, did you think you <i$could> go home?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Those who have fallen into Hell",
+                "may never leave by their own power."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "It would not be much of a prison otherwise,",
+                "would it?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Fuuuu..."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "What is this?",
+                "I waited so long only to be disappointed."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "...Haaaa, it's over for me."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "This place is certainly Hell."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "O Tube-fox."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You stand before Zanmu Nippaku."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I have been watching you from the very beginning."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "You have groveled before Kicchou and Kurokoma both,",
+                "while only ever thinking about your own benefit."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "...How do you know all this?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Haah-hahaha.",
+                "What a fun girl you are!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I would have you fulfill a request, should you be able."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "That depends. What is it?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "After you have accepted doing those beasts' bidding,",
+                "you are in no position to refuse mine."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "...Urgh."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "My request is..."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "W-What?",
+                "To kill Reimu Hakurei?!"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "That's... that's a very blunt request."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Will you take it?",
+                "Or would you rather wander Hell for all eternity?"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Muster all your strength and surpass my imagination!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Ha. You never could have managed it, regardless."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "This is frustrating..."
+            ]
+        }
+    }
+}

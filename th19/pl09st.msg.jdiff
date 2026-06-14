@@ -1,0 +1,729 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "Thanks for the report.",
+                "You tanukis can rest now."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Just as I thought. It appears there are some no-good people",
+                "running around here and there."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I want to find that notorious Toutetsu",
+                "as soon as possible."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Ahahaha."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Who would've thought Sanae was into that kind of stuff?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "What're you mumbling about all to yourself?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I heard a voice whispering in my ear,",
+                "so I've been trying to listen to it."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "And it's been so much fun!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Whispering?",
+                "Lemme have a look."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Hey, you're in big trouble.",
+                "Inside your hair..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "What?",
+                "The tanuki in front of me is an enemy?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Okay, I'll take her out!"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "There's a fox in your hair!",
+                "It's a tube-fox!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "A tube-fox...",
+                "That's another pain in the neck."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Once you're possessed, it's all over.",
+                "They'll manipulate you until you're a goner."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "You want me to leave right now?",
+                "Got it!"
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "Is the tube-fox Tsukasa here?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I hear you've been receiving blessings from",
+                "the Moriya Shrine lately."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "My, my."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Miss Chief bake-danuki!",
+                "How can I help you today?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "You speak as though this is your home."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Let me be frank with you. Your tube-foxes have been",
+                "working a lot here. Don't you think it's too much?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Do understand that Gensokyo is ",
+                "not your private estate."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oh? You, who has her bake-danuki running ",
+                "wild all over, see fit to lecture me?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Humph. You low-class beast.",
+                "Don't talk down to me like that."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Low class is fine,",
+                "you wretched beast!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Tanuki and foxes...",
+                "Are us masters of the same tricks bound to clash?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Why don't we call a truce here?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I'd be happy to do so, but..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You want information, don't you?",
+                "Heheheh..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I'm already tracking the movement of Kicchou of",
+                "the Kiketsu Family and Kurokoma of the Keiga Family."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Ha, their information leaks like a venting pipe.",
+                "I already know that."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "But what about Toutetsu of the Gouyoku Alliance?",
+                "She is the most notorious one."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I'll trade her information for a truce,",
+                "if you find it acceptable, of course..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Tanuki and foxes...",
+                "Us masters of the same tricks are bound to clash, aren't we?"
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Tsukasa was afraid of Toutetsu and avoided her.",
+                "She has a cute side to her too."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Let's see, \"Toutetsu will soon appear",
+                "at the Children's Limbo,\" they said."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "As expected of a tube-fox.",
+                "She has an impressive information network."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Who's there?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Ah, the bake-danuki chief."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Speak of the devil."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "What do you want from me?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "You want ownership of the land, don't you?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "But with one rival after another,",
+                "gathering new allies in a hurry..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Get to the point."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Why don't you team up with me, ",
+                "someone who knows everything about the surface?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Ha, sure. I don't mind."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "However, I don't need weak people."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Understand?"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "That's enough, right?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Yeah, you're now part of ",
+                "the Gouyoku Alliance."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I was sure you would refuse.",
+                "My plans have been thrown off."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You must have been in a hurry because ",
+                "the other beasts are getting new allies."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You've got the wrong idea."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I recently made a new ally before you."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Even before Yachie and Saki."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "No reason to turn down somebody",
+                "who wants to be an ally."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "A new ally...",
+                "You've made your arrangement, I see."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "You won, you won!",
+                "I surrender!"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "I've miscalculated.",
+                "Toutetsu already has an ally."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "My plan was to pretend to be friends ",
+                "with Toutetsu and spy on her."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "A slight change of strategy is necessary."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Talking to yourself in the graveyard."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "As expected of a gal approved by Toutetsu,",
+                "you have excellent hobbies."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Who?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I'm Chiyari Tenkajin.",
+                "What about you?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It's Mamizou.",
+                "I'm running a staffing agency on the surface."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "They said the Gouyoku Alliance had a new ally.",
+                "Is that you?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Indeed."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Hmmm, what is Toutetsu thinking?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Bringing in somebody who's so",
+                "obviously a spy..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "What do you say?",
+                "Miss Mamizou Futatsuiwa, the bake-danuki!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "You have a sharp mind."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I reckon I have seen you somewhere,",
+                "aren't you that chupacabra youkai?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Chupa... cabra?",
+                "No, I'm a tenkajin..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Don't worry, the chupacabra is very popular on",
+                "the surface. Be proud of yourself."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "And what's with the test tube on your leg?",
+                "Whose blood is in that?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Oi, don't touch that without my permission!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "What is this?",
+                "This... Youkai scent..."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "I wonder if Toutetsu really wanted to triumph in this conflict."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "...Damn."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Getting caught in a teleportation trap is not like me."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I think I somehow managed to escape midway.",
+                "Where is this place?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Welcome to Hell!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "No matter who, no matter when,",
+                "they are all welcome in Hell."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Who are you?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "My name's Hisami Yomotsu,",
+                "the guide of Hell."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Hell?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "A trap to <i$Hell>!?",
+                "How does the like of a chupacabra have something so vile?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Now, where would you like to go today?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "I don't care, I've fallen into",
+                "a trap, I'm leaving right now!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Oh my, are you not aware?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Once you're in Hell, ",
+                "you can't get out by yourself!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Come now, let me guide you",
+                "to the very depths of Hell!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "It's useless.",
+                "Because Hell is..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Not the kind of place you can leave on your own, right?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I'll have to find someone with the authority ",
+                "to get me out of here."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "That is correct. As such, I'll take you",
+                "to the one who has the authority to do so."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "And now I'll guide you as I promised."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Straight. To. Hell."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Hell is the same no matter where you go."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Nothing at all.",
+                "Seriously, nothing at all."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Finally, you have arrived."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You, who came all the way from the province of Sado.",
+                "Welcome."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "And who are you?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "My name is Zanmu Nippaku."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "To think anyone could free themselves from",
+                "a teleportation trap after it has sprung...."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "If you get on the wrong train,",
+                "don't you just jump out the window? Normally."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "What? Well, I don't get what you're talking about,",
+                "but nobody would do that."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Anyway, your selfish actions are a hindrance to me."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "So I had you brought to hell."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Hindered you?",
+                "Are you with the Kiketsu Family or the Keiga Family?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Heh heh."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "You would lump me with those beasts?",
+                "You lack judgement."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "I am my own alliance,",
+                "the one who uses nothingness to quell this incident."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Now, shut up and witness."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "The dear and amusing people who dance in the palm of my hand."
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "The world proceeds as I planned."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "How pitiful."
+            ]
+        }
+    }
+}

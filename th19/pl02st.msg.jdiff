@@ -1,0 +1,769 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's a ridiculous idea to try and defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "I’m so angry!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "They told me to investigate the nature of",
+                "these spirits flooding the surface…"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "...but where do I even begin?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Heyyyyy, Sanae!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Won't you lend me the shrine? Just for a bit."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "U-um, what for?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I want to make it a base for the beast youkai of the mountain.",
+                "You’ll let me do that, won’t you, Sanae?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Don't be silly!",
+                "Why would I ever..."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Regardless, we don’t have a moment to lose."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "At this rate, we’ll be overrun by those weird beast youkai."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I was just about to go investigate myself."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "But still, I can’t just lend you our shrine."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Now, I’ll just help myself…"
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "Phantoms aside, there are beast spirits",
+                "that we don't usually see here."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "And the beast youkai are acting strange too,",
+                "just as Tsukasa said."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Is some sort of catnip-like substance ",
+                "scattered all over the place?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh, you're investigating too?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I thought the Moriya Shrine would be watching and waiting."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Strange beast youkai keep appearing, so I had to look into it."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Speaking of, a beast youkai like you is investigating too?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Well, I guess you <i$could> call it an investigation."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Oh, that's right."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Lady Kanako told me to treat all beast youkai like enemies."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Hahaha, that’s a good way of thinking.",
+                "And a great way to an early grave as well!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "It seems like I'll just have to keep",
+                "reining in the beast youkai one by one."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Frankly, I don't trust the Moriya Shrine either."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Beasties, beasties!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Where are the beasties?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "If they could come out of hiding right away,",
+                "it would make my investigation a lot easier!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Well, somebody's in a good mood."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Even though this neck of the woods is ",
+                "crawling with rowdy beast spirits."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Finally, a beast youkai! With a big bushy tail too!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "A beast youkai!?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "What rudeness!",
+                "How dare you call me a beast!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Wha?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "...What."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "...Whaaaat?"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Why're you running around, beating up beast youkai?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Ummm, what was the reason again?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Oh, that's right, I was investigating why ",
+                "this land's spirits have been so turbulent lately."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I looked into it, and I found that not only phantoms ",
+                "and beast spirits, but even beast youkai have been acting up."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "So I decided to take down the beast youkai as fast as I can."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "So that's the reason. I see."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "In other words, it seems you haven't been ",
+                "investigating the matter at all."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Listen. One or two beast youkai couldn't ",
+                "possibly have started this incident."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I'm feeling kind. I'll let you in on something good."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "It'd be a pity if you went home empty-handed",
+                "after getting so worked up, dearie..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "You're as helpless as ever."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Ummmm..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I followed Miss Mamizou's directions,",
+                "but isn't this place..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Hell?"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Oh no, was it all a trick?!",
+                "That dumb tanuki!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "And who might you be?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ah, aren't you the shrine maiden of that mountain shrine?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Um, who were you again?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Matriarch of the Kiketsu family, Yachie Kicchou."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "It's quite unfortunate that I didn't leave an impression on you."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "By the way..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Why have you fallen into Hell?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "No, it's... that tanuki..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "She told me that a beast youkai ",
+                "is plotting the surface invasion here..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "...Hah!? Could it be?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Hah, plotting an invasion?",
+                "That's just wrong..."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "We've gone past plotting stage. It's almost done.",
+                "Soon, the surface will belong to the Kiketsu Family."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "And when that time comes,",
+                "I hope you remember the face of your ruler!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Your invasion is... almost done?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "That's right. ",
+                "We've acquired the strongest ally on the surface."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "The weakness of we spirits of the Animal Realm, ",
+                "needless to say, is that we lack flesh-and-blood bodies."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "That is one of the reasons why we find it",
+                "difficult to operate on the surface world."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Therefore, it's essential for us to make an ally ",
+                "on the surface in order to extend our influence."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "That ally of the Kiketsu Family from the surface...",
+                "Where are they?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Hehehe, and what're you gonna do with that information?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I'm eager to see what kind of",
+                "stupid-looking face they have."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I'm not going to hide her from you. If she's so weak that",
+                "she loses to someone like you, she's of no use to us anyway."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "She's in the Forest Sanctuary.",
+                "Why don't you go and say hello to her?"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "That should engrave me, the ruler, in your memory."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Isn't this around where the Forest of Sanctuaries should be?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I've been told that it's full of cliquey types,",
+                "and I shouldn't get too close, but..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "What if a Yamanba or something leaps out at me with a knife...?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Well, well..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "If it isn't the little lady from the Moriya Shrine."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "How are you today?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Oh, a stranger! What to do..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oops, sorry.",
+                "We've never met before, now that I think about it."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I'm Son Biten, the Kiketsu family's guerilla agent."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I am Gensokyo's one and only Great Sage, Heaven's Equal!",
+                "Remember it well!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Ah, I can't believe it...",
+                "What Miss Mamizou said was actually true."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "The surface invasion has already begun..."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Heh-heh-heh."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "This will be my great deed!",
+                "I'm going to defeat you, and then..."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "...save the world!"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Can you?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Me and my monkey friends, we've all heard the rumours."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "\"That shrine maiden, from the new shrine? She's incompetent, less than a monkey!",
+                "That dork can't do anything on her own,\" stuff like that."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Now, come at me!",
+                "But know I'm still learning how to keep my strength in check!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Nice work!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Seems like those rumors were unfounded."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "This was fun!",
+                "Let's go another round."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I'll pass, thank you."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I just don't get it, why is a beast youkai from the surface",
+                "lending a hand to spirits from the Animal Realm?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "In my case..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "...it was all thanks to Lady Yachie that ",
+                "I did not fall into Hell."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I must repay her kindness."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Hell...?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Want to hear more about it?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Um, yeah..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Then come closer."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "O-okay."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Close your eyes..."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "O-okay..."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Like they said, you can't do anything."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "...Uh, um?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "A youkai monkey told me to close my eyes, and then...",
+                "What happened to me?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "You're awake."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I've set a trap to deal with any hindrances who would interfere",
+                "with the proper resolution of this incident."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "And you fell for it."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Huh? A trap?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Who might you be?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "My name is Zanmu Nippaku."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "The one who will quell the chaos that besets the surface."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Your selfish actions have been deemed",
+                "a hindrance in my eyes."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "I only tried to thwart the Kiketsu Family's schemes."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "What's so selfish about that?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Hah..."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "You arbitrarily decided to intervene in the Kiketsu Family's schemes."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "In other words, you were being selfish,",
+                "wouldn't you say?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Hmm?",
+                "I-is that so?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "I have fully settled the incident on the surface.",
+                "There is nothing a human such as you can do."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Now you must choose.",
+                "Forget it all, or become nothing!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "So you chose to be nothing..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "That is also acceptable, I suppose."
+            ]
+        }
+    }
+}

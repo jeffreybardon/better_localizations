@@ -1,0 +1,792 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's a ridiculous idea to try and defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "It's so nice up here!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I can't believe we're having this festival.",
+                "It's the best!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Eep! Orin?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Why are you here?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "|\tThere's so many treasures \t,\taboveground\t,here",
+                "There's so many treasures aboveground!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "You could've told me about this",
+                "Great Phantasmagorial Release Festival!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "It's my favorite thing!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "We're both Underworld dwellers,",
+                "you don't have to give me the cold shoulder like that!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I don't like cats.",
+                "You should know that."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "What're you talking about?",
+                "I don't eat rodents!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Well, not living rodents."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "I'm not so good with cats."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Now that I think of it, Lady Shou is also a type of cat."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "The Human Village is also flooded with phantoms!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "There might even be some vengeful spirits mixed among the phantoms..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "But probably not."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Orin?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Don't get too close to the village, okay?",
+                "At least not while bringing that many phantoms."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "It's fine, this place is full of phantoms anyway.",
+                "I'll blend in just fine."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I don't think blending in or not",
+                "is the problem."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I'll head home right after I fill up",
+                "my cart with phantoms, or maybe corpses!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Don't you think you're overfishing?"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Well, it's about time to go home!",
+                "My cart is now full of captured phantoms!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You might as well do me a favor",
+                "and catch <i$all> of the phantoms."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "You might as well do me a favor",
+                "and catch <i$all> of the phantoms."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Oh my, what a big harvest!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I'm definitely gonna come back again to",
+                "that all-you-can-grab phantom fest."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Huh?",
+                "Who's that over there..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Eh? Who're you?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Ah, it's you, Orin."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Thought there was someone I didn't know.",
+                "Didn't expect to see a nine-tailed fox."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I often see you playing with my dear little Chen. I am grateful for that."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ahh, no problem."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Thanks to you, my once cute little Chen is",
+                "now finding corpses for fun."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Nyaaahaha!",
+                "The training was worth it!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "So, need anything from me?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Do you know anything about the incident",
+                "happening on the surface?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Incident...",
+                "Ah, you must mean the Great Phantasmagorial Release Festival?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "It rocks!",
+                "The scent of death was everywhere!"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "I never thought there'd be such a fancy",
+                "event on the surface."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Who's the organizer?",
+                "Could it be that one from your place?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Ah, I'm sorry, never mind me.",
+                "You're not someone who'll get what I'm talking about."
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "You came here to investigate the phantoms?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Investigating on the surface alone was fruitless."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I'll tell you something nice!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "It seems like new phantoms are coming out",
+                "from the depths far below."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "New phantoms are coming out, you say.",
+                "Thank you for the fine information."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "They are like the husks of vengeful spirits, ",
+                "whose grudge and everything else have faded..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "They aren't to my liking."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Oh well,",
+                "Time to kick the mood up and start working."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "From now on, stop playing with corpses",
+                "when you're with Chen!"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "|\tI didn't expect I'd have to come out to \t,\tthe Former Hell of Blood Pools\t,place like this",
+                "I didn't expect I'd have to come out to the Former Hell of Blood Pools..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I'm not gonna be able to slip right past her, am I?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Hellooo? Where are you?",
+                "Chiyari, the Tenkajiiin."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Argh, what's that?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Yooo, Orinǃ",
+                "Long time no see, how've you been?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "What're you up to today?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Not much. I'm just here to warn you that randos might be coming by.",
+                "They're investigating the incident happening on the surface."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "A fox from the surface was bugging me not too long ago.",
+                "It's only a matter of time before the shrine maiden's here."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Whaaat?",
+                "There's an incident on the surfaaace?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "You don't know?",
+                "That new beast, Toutetsu, has gotta be the culprit, right?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "There's gonna be <i$another> fierce battle!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "You might get caught up in it.",
+                "Maybe you should hide for a bit."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Heheheh.",
+                "Now you're joking."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "How's anyone supposed to hide in a place",
+                "that looks like the apocalypse."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Not to mention that Toutetsu and I have become friends."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Wha—!?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Are you surprised?",
+                "You're looking at a proud member of the Gouyoku Alliance."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Wha... What?",
+                "Huh!?"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "I see. If so, our fight seems inevitable."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Huh?",
+                "I thought you'd fight me no matter what."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Ahaha, of course.",
+                "After all..."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "No battles, no corpses!"
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "You get meǃ"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "That was fun!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "That fox I mentioned should be here soon to investigate."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Speaking of which, where's Toutetsu now?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "She should be in the Animal Realm.",
+                "She said conquering the surface requires a lot of preparation and blablabla..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I've already gone this far,",
+                "I may as well go say hi to Toutetsu."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "That was fun!"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Whoa, when did the Animal Realm become this fabulous?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I can't complain if these people called Former Hell the boonies."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Heeeeey, Toutetsuuuu.",
+                "Are you heeere?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Who's calling me so frankly?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "As I thought. Orin from the Palace of the Earth Spirits.",
+                "It's rare to see you here."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "What do you want?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Y'know, that incident on the surface,",
+                "you're behind it, right?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Incident, you say.",
+                "If so, what're you gonna do?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Phantoms were everywhere! It was awesome!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "...Just to tell you that.",
+                "I really appreciate it."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Heh, what the hell are you saying?",
+                "Some kinda joke?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "However, I'll not claim that deed."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "It's not me, and I don't do things",
+                "like spreading phantoms on the surface."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Since you've been making new friends,",
+                "I thought you were up to something."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "So you met Tenkajin?",
+                "Actually, you've probably known her longer than I."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Yeah? We're buddies."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Well then, It's time for a test."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "What?"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "That's enough."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You're just an ordinary Kasha."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Obviously, but",
+                "what were you testing anyway?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "That Tenkajin. She came to me all of a sudden.",
+                "Said she wanted to join me."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Really? Chiyari?",
+                "Hard to say whether that's out of character or not..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "There was no reason to turn her down,",
+                "so I just let her be. However..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "The blood she's been accumulating",
+                "was mixed with some suspicious test tubes."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Suspicious test tubes...?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I have some here.",
+                "Wanna take a look?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Ooookay...?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Come on, closer."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "I misjudged.",
+                "She's not following anyone's order."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "... Where am I?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I know the feel from this pungent smell...!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I'm in Hell!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I see the kitten is finally awake."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I have been watching you from the very beginning."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "That Toutetsu is a wicked one."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "That she would pretend to open her heart,",
+                "only to lure you into a trap. Despicable!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "T-trap?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Yeah, that teleportation trap earlier...",
+                "Or something, I'm not sure."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Oh, now I remember!",
+                "That fearless face of yours!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "You're that one human who took over Hell all by herself!",
+                "Zanmu Nippaku!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Indeed."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "It was also you who abolished the old Hell and founded Former Hell in the process.",
+                "I'm honored to meet you."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Hm-hmm."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Did you come to waste my time reminiscing?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "I'm not here by choice!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Wait, am I here by choice?",
+                "... No."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "You already know of me,",
+                "so you already know of what is to come."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "If you stand before me,",
+                "there will be no escape."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Just as everything else, you too will dance in the palm of my hand.",
+                "And the curtain will fall."
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "The world proceeds as I planned."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "How pitiful."
+            ]
+        }
+    }
+}

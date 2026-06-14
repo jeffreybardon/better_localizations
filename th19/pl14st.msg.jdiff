@@ -1,0 +1,636 @@
+{
+    "3": {
+        "4_0": {
+            "lines": [
+                "Good, I woke up right on time today!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "All right, it's just about time."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Now, where is Gensokyo's own Great Sage, Equal to Heaven?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "You're quick to seize an opportunity."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I've recruited such a reassuring ally, and one of flesh, too.",
+                "Now, let's begin."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "This will be our final training session.",
+                "Come at me!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ah, I knew you were here for a fight."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Hm? You called?"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Alright, that's enough."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I need you to work with the beast spirits to defend our territory once we've taken it."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Understood!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Then what will you do, Lady Yachie?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I'm particularly interested in the Keiga Family.",
+                "Their new friend looks rather capable."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "...There she goes."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I will pay the Keiga Family and the Gouyoku Alliance a visit.",
+                "To keep them in their lane."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Is <i$this> the right thing to do?",
+                "Master Zanmu..."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Welp, I'll have to leave it up to you."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "Now then... no matter who I fight,",
+                "I'll be fine as long as it's fun!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Though it'd be great if I could find someone",
+                "I wouldn't feel bad about beating up..."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "A-a monkey!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "The Earth really is more fun!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "All the lifeforms here are so unusual."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Hey! You trying to pick a fight?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "And their violent nature is so wonderful, too!"
+            ]
+        }
+    },
+    "7": {
+        "66_0": {
+            "lines": [
+                "Shhh!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "O-okay."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "You'd never meet such exciting people in the",
+                "Lunar Capital!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Ah, so you were a moon rabbit.",
+                "It's no wonder I've never seen your face before."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Ah, that's right, Enoko the yamainu had the same thing!",
+                "It's just like that jewel!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Keep that to yourself and I'll give",
+                "you a rematch sometime. Okay?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Huh?",
+                "This unearthly feeling wafting from that staff of yours..."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "I wonder if Sanae came back yet."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Oh, it's Biten!"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Did you come to play?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "How have you been?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I'm fine, but what is the Kiketsu Family doing?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I haven't seen anything strange on the surface..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "The long-awaited decisive battle has already begun."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "So ready yourself, Sanae!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "What...?"
+            ]
+        }
+    },
+    "10": {
+        "66_0": {
+            "lines": [
+                "The battle between the beast families",
+                "is a total farce."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "The decisive battle's already started?",
+                "Really!?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Well, it's decisive in that there's going to be",
+                "one clear victor."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Clear victor?",
+                "You don't mean that oni, Zanmu...?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Yes.",
+                "I feel sorry for Lady Yachie, but..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "I don't know what's going on,",
+                "but I won!"
+            ]
+        }
+    },
+    "15": {
+        "144_0": {
+            "lines": [
+                "Ah, if it isn't Miss Son Biten.",
+                "Lady Zanmu told me to expect you."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Eh? Who're you?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I am Hisami Yomotsu.",
+                "A guide to Hell."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Hell welcomes everyone, every time. Without my guidance,",
+                "you will never find the place you seek."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I see..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Then will you guide me?",
+                "To Zanmu."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Hm hm hm, of course I will.",
+                "But first..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "We must abide by the customs of Hell!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Umm...this is Hell, right?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "It's so big and dark and empty here.",
+                "Where am I supposed to go?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Welcome to Hell!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "I will now be your guide."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Was there a point to that battle?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Please do not think poorly of me.",
+                "This was also part of Lady Zanmu's orders."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Now then, I shall guide you as I was instructed."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Hm hm hm.",
+                "Please relax, and enjoy your time in Hell."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "???"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Man, there are way too many people around",
+                "here who'll find any excuse to fight."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Now then, I shall guide your way,",
+                "to the depths of Hell..."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Is this the place?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "It doesn't look much better than where I was before."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Who's there?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Son Biten, right?",
+                "What's Zanmu's monkey doing at my place?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Eh? You're..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Suika Ibuki, an oni who silences crying children."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Because that's just the way that woman works."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Zanmu throws people away when they stop being useful to her.",
+                "Just like she threw away Former Hell."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "And because of that, everyone worships",
+                "the ground she walks on."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "That woman is a true oni among oni."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Ah, I get it. You're here because",
+                "Zanmu's thrown you away."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "How does the truth make you feel? Sad? Angry, maybe?",
+                "Even though you've tricked plenty of people yourself?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "I was just surprised.",
+                "Master Zanmu truly does betray every expectation."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "This world is full of oni, isn't it?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "You were doomed to fall into Hell as soon as",
+                "you devoured those phantoms in the sanctuary."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Oh well, let's enjoy Hell to our hearts' content.",
+                "It's not like you can leave on your own!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "I already told you,",
+                "you can never escape from Hell!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "This is frustrating..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "You'd never meet such exciting people in the",
+                "Lunar Capital!"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Well, most of the youkai of concern ",
+                "have already been dealt with..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "It's time to go report to Lady Zanmu."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Let's-huh? Wait, you're..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh, did you die?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Why else would you wander into Higan?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Re...Reimu?!",
+                "What are <i$you> doing in a place like this?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "After stepping back and observing the incident ",
+                "I realised who the bad guys were."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I let you wander free",
+                "until you showed your hand!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "You're a pawn of that oni from hell.",
+                "Prepare to be exorcised!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "An oni's pawn, huh?",
+                "What makes you think that?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Since you popped up out of nowhere,",
+                "I did a little background check on you."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You met Zanmu back when you were just a monkey."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "And soon after that, you became a youkai."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I see. Well, I don't think I'm up to anything",
+                "wicked, so I've got nothing to hide from you."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Yes, I became a monkey god thanks to Master Zanmu's powers.",
+                "That's why I'm working to fulfill her wishes."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Even if you get in my way, Reimu,",
+                "everything's already folding into place!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Everything rests in the palm of Master Zanmu's hand..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "|\t...\t,\tZanmu\t,That woman",
+                "...Zanmu's wishes, huh?"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Alright, that just leaves two more."
+            ]
+        }
+    }
+}

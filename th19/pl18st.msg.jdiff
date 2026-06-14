@@ -1,0 +1,667 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "You think you can beat me? Ridiculous."
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "Hey, Hisami!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Hup!"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Lady Zanmu!",
+                "What are we doing?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I shall be taking my leave, but only for a moment."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Of course! Please enjoy your trip!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "<b$Hey>, have you already forgotten how Hell works?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Oh, you mean killing anyone who tries to leave!",
+                "Right away!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Of course, don't forget that!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "That's why I'll be leaving it to you."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Should anyone visit here,",
+                "you're free to do what you wish to them."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Forgive me, Lady Zanmu."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "But from now on, I'll be following Miss Suika's advice",
+                "and get you to scold me."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Yes, I killed you!"
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "Matriarch of the Keiga Family, Saki Kurokoma!",
+                "Show yourself!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Eh? Wha?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "La-Lady Zanmu!?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I never thought you'd walk out of Hell.",
+                "What might you be doing today?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Most of the surface's land ownership ",
+                "has been distributed."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "You beasts' jobs are done."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Playtime's over.",
+                "Return to the Animal Realm!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "You gained me an ally, gave me strict advice,",
+                "I thought we're about to kick up our partnership."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Is this really the end between us?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Oh, I'm sorry that I toyed with you."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I'll remember the deeds of the Keiga Family."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Join me later at the celebration feast."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I'm honored to receive that gratitude."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Phew. Your jokes were tough, my ma'am."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Matriarch of the Gouyoku Alliance, Yuuma Toutetsu!",
+                "Show yourself!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Huh? What?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Well, well. Aren't you Zan... I mean Lady Zanmu."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "|\t\t,\tThe Former Hell of Blood Pools\t,Place like this",
+                "The Former Hell of Blood Pools was cut off by your reform.",
+                "What're you even here for?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Most of the surface's land ownership ",
+                "has been distributed."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Your beasts' jobs are done."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Playtime's over.",
+                "Stop the violence on the surface at once!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "What do you mean it's done?",
+                "Screw you."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "What happens to Chiyari then?",
+                "She's 'your' spy!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Chiyari did a good job,",
+                "so she has already taken her day off."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "None of you had any free will",
+                "from the start."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I'll remember the deeds of the Gouyoku Alliance."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Join me later at the celebration feast."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "That just sounds stupid. I'm out."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "You won, you won!",
+                "I surrender!"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Matriarch of the Kiketsu Family, Yachie Kicchou!",
+                "Show yourself!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Huh? What?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Lady Zanmu!",
+                "What brings you to the Animal Realm?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "If you had contacted me in advance,",
+                "I would have prepared to welcome you."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I don't need your hospitality."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Most of the surface's land ownership ",
+                "has been distributed."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "You beasts' jobs are done."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Playtime's over.",
+                "Stop the violence on the surface at once!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "It's... over."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I see what you mean..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "It hasn't been so long since we met,",
+                "and you've already grown so timid."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "The Yachie Kicchou that I know",
+                "is not supposed be like this."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You were intelligent. You feared no consequences.",
+                "And above all, you were unbelievably energetic."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You're right.",
+                "I... I was not being myself."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Join me at the celebration feast later.",
+                "You will come, yes?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Heheheh.",
+                "I'll look forward to that!"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "It's far from over,"
+                "isn't it?"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "The beasts must have already lost ",
+                "their fighting spirit."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "It's only a matter of time before the ",
+                "beast spirits leave the surface."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "All that's left is to go back",
+                "and wait for time to pass."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I appreciate your efforts."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Did you have fun greeting all the beasts?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ah?",
+                "Suika? How come?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Is there something wrong",
+                "with me being here?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It's all in your palm, isn't it?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Well, no, there's nothing wrong with that."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Let me congratulate you, too,",
+                "on solving the incident!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "What are you up to?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "There's no purpose for you to",
+                "watch for me in this place."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "It's also too unlikely to be a coincidence."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "That's a bad habit of yours,",
+                "thinking that everything has a purpose."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Well, I just wanted to be invited to the feast."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Bye now."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "......"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "An oni always focuses on the fight no matter what happens.",
+                "Put your oni face on!"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "...That Hisami,",
+                "she's done it now."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I told her not to let anyone in ",
+                "while I was gone."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Hmm? I see!",
+                "So that's how it is."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Heh heh heh..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "What are you laughing at?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "If you were talking about that Hell's guide,",
+                "she led me here with no hesitation."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "So Reimu was the one who was hiding."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Hmph, this was Suika's doing right?",
+                "Both you and Hisami."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Oh well. I was planning to call you over anyway, Reimu."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Everything's proceeding as planned."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Call me over?",
+                "For what?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "It's simple."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Fight me, and defeat me."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Huh?",
+                "What's that about?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "\"The incident in Gensokyo just solved itself.\""
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "That won't ease the people's fears.",
+                "It won't amount to true incident resolution."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "\"The shrine maiden fixed everything by defeating the mastermind, Zanmu.\"",
+                "Render it that way."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I don't really get it,",
+                "but apparently this is my last job."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "That alone will stabilize Gensokyo."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "I'll give you the credit for resolving the incident.",
+                "You'll take it, won't you?"
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Hmph. No, thanks."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "I know what your true plans are!"
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "Zanmu, you...! You want to leave your shadow in",
+                "everyone who's involved in the incident!"
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "Even if I take the credit for resolving the incident,",
+                "your shadow will always remain in my heart."
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "I want no part of that!"
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "...Augh, Suika must've hinted you."
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "Instead, I will strike the true terror of oni into your heart!"
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "If you plan to escape from my palm now,",
+                "I no longer need to purposefully lose."
+            ]
+        },
+        "344_0": {
+            "lines": [
+                "Let that terror be carved to the ends of your imagination!",
+                "Human of many futures!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Eh? Even if I win, it won't end? What's the deal?"
+            ]
+        }
+    }
+}

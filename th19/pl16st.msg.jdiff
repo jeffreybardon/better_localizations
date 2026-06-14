@@ -1,0 +1,674 @@
+{
+    "3": {
+        "4_0": {
+            "lines": [
+                "Ah, what a bore."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Keeping secrets sure is a pain."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Heeey, Chiyari!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Are you awake?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I am, I am.",
+                "Why're you bothering me at this hour?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "\"At this hour?\" What time do you think it is?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Uh, what time is it?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "How am I supposed to tell from down here?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Oh, right."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Whatever. Now's our big moment.",
+                "Get your head in the game!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "You mean, it's time for the decisive battle?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Well, something like that.",
+                "My enemies might come to mess with you."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So be ready."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Oh yeah, the decisive battle."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "What a chore... but a promise is a promise, yeah?"
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Hey, what's wrong with you?",
+                "Did you overeat?"
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "Ugh, the light up here is way too bright.",
+                "I'm better off without it."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "But if the time has come, I've gotta get going."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "It's one of those chupacabras everyone's talking about!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "She's gonna suck up my blood!",
+                "I gotta get outta here!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Who're you calling a chupacabra!",
+                "I'm a tenkajin!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Tenkajin...",
+                "Ummmmm...?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Tenkajin are youkai which suck up blood,",
+                "you got that?!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Uh, um, it's one of them tenkajins.",
+                "She's gonna suck up my blood! I gotta get outta here!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "What even is a chupacabra?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It's some kind of blood-sucking youkai",
+                "that's been super popular among humans lately."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "A \"super popular blood-sucking youkai\"?",
+                "Wait, that sounds kinda like me..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "She's gonna suck up my blood!",
+                "I gotta get outta here!"
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Ugh, I never should've left the Blood Pools..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "How am I meant to make it all the way to New Hell?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "For some reason, the teleportation trap ",
+                "I got doesn't work on me..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh, we meet again."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Hello, little chupacabra!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ah, you're that one from that staffing agency the other day!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Hey, everyone I've run into has started calling me",
+                "a chupacabra. Is that on you?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It's a good thing, no?",
+                "It brings out your charms."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "You can also consider it payback for your stunt",
+                "with that teleportation trap the other day."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I got put through the wringer after that!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Hahaha, serves you right."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "People who spread around weird nicknames like you",
+                "deserve to go to hell!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Whew, that felt good."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh my, you're stronger than you look.",
+                "You seem more worthy of the name chupacabra each time we meet."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Uh, is \"chupacabra\" really such a high-class name?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Indeed, it's legendary."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Well, I guess it's fine then."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "By the way, you're heading to that one's place now, no?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "That one...?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Zanmu, that is.",
+                "I can already guess you're one of her subordinates."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "I give, I give!",
+                "I give up!"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Let's see, let's see... If I wanna get to New Hell,",
+                "I'll have to take the standard route."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "The standard route was... pass the Children's Limbo, ",
+                "cross the Sanzu River, go through Higan..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<i$Damn,> that's a hike!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Chiyari?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Didja finally graduate from being a shut-in?",
+                "That said, why would you come out here?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "O-Orin..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "You caught me in a bad spot here."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "So I gotta shut you up like anyone else!",
+                "Hold a grudge forever if you must!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Hell yeah, Chiyari's all fired up now!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Die!",
+                "Die and fill up my cart!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Whew, I feel <i$alive!>"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I see... so you were pretending to be a member of Toutetsu's gang,",
+                "but you've been working for Zanmu all along."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Are you headed to meet up with Zanmu now?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Well, I did promise her I would."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I was supposed to head over",
+                "without anyone finding out about it."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You're fine, you're fine!",
+                "I won't tell anybody about this."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "By the way, if you want to get into New Hell,",
+                "you're gonna need a guide."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Could you help?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "No, there's no way I can guide you...",
+                "But they've got a dedicated guide-gal, so you'll be okay."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "I see, you were pretending to be a member of Toutetsu's gang,",
+                "but was working for Zanmu all along."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Hey-ooooo, guide-gaaaaal!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Come guide meeeeee!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Welcome to Hell!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Ah, if it isn't Miss Chiyari Tenkajin.",
+                "Lady Zanmu told me to expect you."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Oh, so you're the guide-gal.",
+                "A Yomotsu-shikome character, right?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Yes, that is exactly right."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Hell always welcomes anyone. Without my guidance,",
+                "you will never find the place you seek."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Right, that's how it is.",
+                "Lead me to where Master Zanmu's waiting then."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Hm hm hm, of course I will.",
+                "But first..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "We must abide by the customs of Hell!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "I will now be your guide."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "If you are gonna guide me anyways,",
+                "what was the point of that fight?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Please do not think poorly of me.",
+                "This was also part of Lady Zanmu's orders."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh, I see."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Now then, I shall guide you as I was instructed."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Hehehe.",
+                "Please relax and enjoy your time in Hell."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Huh?"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Now then, I shall guide your way,",
+                "to the depths of Hell..."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "It's been ages since I've taken a trip this long..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Come to think of it, ever since Former Hell was abandoned,",
+                "I haven't left the Blood Pools even once."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "This is actually pretty refreshing."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Whoa, who's there?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "So you're Chiyari Tenkajin.",
+                "Chupacabra, what are you doing at my place?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Huh?",
+                "A-Aren't you Suika Ibuki?!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Were you expecting Zanmu?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Get a grip.",
+                "Zanmu has thrown you away."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Because that's just the way that woman works."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Zanmu throws people away when they stop being useful to her."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "It's just like how she threw away Former Hell."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "And because of that, everyone worships",
+                "the ground she walks on."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "That woman is a true oni among oni."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Well? Does it make you angry?",
+                "Or are you grieving?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Hahaha, that's right.",
+                "That's the kind of person Zanmu was, even back then."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Those who were left behind in Former Hell have been",
+                "stewing in their resentment this whole time."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "For someone like me who feeds on resentment,",
+                "I can't help but be drawn to Zanmu."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Hee-hee-hee-hee...",
+                "Seems like I'm going to be disappointed."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "To be an oni is to be a betrayer."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "Oh well, let's enjoy Hell to our hearts' content.",
+                "It's not like you can leave on your own!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Looks like you're having a hell of a time."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "This is frustrating..."
+            ]
+        }
+    }
+}

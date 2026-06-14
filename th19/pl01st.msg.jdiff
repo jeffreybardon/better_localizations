@@ -1,0 +1,910 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can win against me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Hey, Reimu!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The village is in turmoil!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You don't say!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Animal spirits are seriously going on the offensive.",
+                "I expected that, but..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "It must be the work of the",
+                "beast realm's outlaws!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Animal spirits?",
+                "Offensive?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Have you not been thinking straight?",
+                "That's not the important part."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "What's important is the land ownership!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Land ownership which some rich",
+                "spirits have never given up,"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "was suddenly relinquished.",
+                "The situation is not dire, but fortunate!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "I gotta grab whatever I can before",
+                "any greedy spirits show up and take over!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "...I see."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Marisa, stop being crazy!"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "You're on the other side."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "If you wish to give up your human intelligence",
+                "and let primal desires control you,"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "I'll see you as nothing more than a beast!",
+                "Stay down!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "There's no doubt about it."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Because of that market god, ",
+                "the surface is undergoing a revolution."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "There's no way I'll pass up this chance!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh, if it isn't Marisa."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I didn't expect to see you here."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "A moon rabbit...",
+                "Did you really not expect to run into me here?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Oh well, you don't seem unrelated to this incident, anyway."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "It seems like the Moon's forces are",
+                "trying to get their hands on the land..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I better hurry."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Don't you have the same idea?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Yes, it's weak but I can feel a new kind of magic",
+                "influencing this land scramble."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "This isn't something beasts can manage."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "To prepare for the inevitable incident,",
+                "we should start getting the land under our control."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Laters!"
+            ]
+        }
+    },
+    "6": {
+        "42_0": {
+            "lines": [
+                "What else would I do when spirits are making a ruckus?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I can't just sit around and do nothing!"
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Aren't you that Aun-chan from the shrine?",
+                "I knew you'd get involved!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "The village is full of phantoms too."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Have others got eyes on this too...?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "That's a bummer, but maybe I should ",
+                "|\ttalk to \t,\tReimu\t,her",
+                "talk to Reimu about it."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Whoops."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "What terrible timing to run into a terrible person."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "If it isn't the mouse from Myouren Temple!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Aren't you observant?",
+                "I can't believe you've got eyes on the incident too."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "What?",
+                "Is that a bad thing?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I discovered that treasure first, so it's mine!"
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "This area was a bust anyways.",
+                "I'll go look for another place."
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Well, I'm not so rusty that I'd lose to a mouse."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Although I'm not sure if koaminu",
+                "count as beasts or not..."
+            ]
+        }
+    },
+    "9": {
+        "34_0": {
+            "lines": [
+                "If it isn't the mouse from Myouren Temple!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Your eyes are sharp.",
+                "Sharp enough to zero in on this incident."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Okay?",
+                "Is that a problem?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I'm the first one who found it.",
+                "This whole area is mine to search!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Wow...",
+                "The incident reaches this deep into the mountains."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I don't think ordinary people understand, but,",
+                "as a magician, I do."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "It's as if the world has turned back into nothingness."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Maybe that market god was truly something else."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Ah, Marisa."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "You're hiking without a care in a place like this?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "What? Reimu,",
+                "This is no time for jokes!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "This whole place is in turmoil!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I'm not blind, you know!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I expected an all-out attack from the beast spirits, but..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "It must be the work of those ",
+                "outlaws from the Animal Realm!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Beast spirits?",
+                "Attacking?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Are you half asleep?",
+                "That sure isn't what's important!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Land ownership is the actual problem here!"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "There was land some rich spirits weren't",
+                "ever going to give up."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Suddenly, they abandoned it.",
+                "This is an opportunity, not a crisis!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Let's take whatever we can before",
+                "any greedy spirits take over!"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "...I see."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "You're on <i$their> side, aren't you?"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Open your eyes, Marisa!"
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "If you've given up your human intellect and",
+                "surrendered yourself to the law of the jungle…"
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "...you're already a beast.",
+                "I'll exorcise you!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Nice! I won!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Anyways, beast spirits?",
+                "You think the mastermind's from the Animal Realm, Reimu?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Don't <i$you>?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "No, I don't. I'm feeling a faint, unknown magic",
+                "influencing this scramble for the land."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "That's not something beasts are capable of."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "We should grab that land as a",
+                "precaution for the coming incident."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "You won, you won!",
+                "I surrender!"
+            ]
+        }
+    },
+    "12": {
+        "34_0": {
+            "lines": [
+                "Oh, Marisa!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Didn't expect to run into you here."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Moon rabbit...",
+                "You really didn't expect to meet me?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "It's okay, seems you've got",
+                "something to do with this mess anyway."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "So the way Reimu sees it, this incident",
+                "looks like another attempt of Animal Realm invasion."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Now that I say it, the beast spirits'",
+                "movements are also a little bit suspicious."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "But other spirits are making a ruckus too.",
+                "Maybe I'm overthinking it..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh, isn't that Marisa?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Long time no see.",
+                "I hope you've been well and strong."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Gh! You're...",
+                "...from the Animal Realm!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "You can always become a part of the Keiga Family, ",
+                "you just need to say the word."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "With that might of yours, ",
+                "you can start at a high rank right away."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Wha- ugh, that's not what I'm here for."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "So Reimu <i$did> have a point? Was she right about ",
+                "the Animal Realm trying to take over the Human Realm...?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Hah-hah-hah, nevermind that."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Everyone on the surface will soon",
+                "be the Keiga Family's subordinates nonetheless."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "It's the beginning of a new era on the",
+                "surface, where might makes right!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Seriously!?",
+                "<b$Seriously!?>"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "This has to be stopped!",
+                "Right here! Right now!"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "So, come on!",
+                "The weak will be kicked off the surface!"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Weak!",
+                "You're so boring like this!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Don't even think about trying to take over the surface."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Kehehe...",
+                "You're way too late."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "A new ally of the Keiga Family has already been born on the surface."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Taking over the surface with bodies that aren't ",
+                "flesh and bone has proven to be inconvenient."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I've found the most powerful beast in the Forest of Magic."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "The Keiga Family has become invincible!"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "The Keiga Family's new ally?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "She said they were in the Forest of Magic..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "They belong to the Keiga Family right?",
+                "I wonder what sort of meathead they found."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Taking over the surface will be difficult for them ",
+                "if all they have are people who boast about their strength..."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Maybe I could put them to good use..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Target acquired!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Just like Lady Saki said."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "\"The most important person will",
+                "return to the Forest of Magic.\""
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Wh... who are you?",
+                "Are you that Keiga famil-"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I am a commander of the Keiga Family's surface team.",
+                "Name's Enoko!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "By Lady Saki's order, I'll capture you",
+                "and enlist you to fight for the Keiga Family!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Here. Here she is!",
+                "The meathead!"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "And so, let the fight begin!",
+                "I'll grind you to death with my fangs!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Oh wow, you've become strong!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You don't seem like that little girl",
+                "who ran off crying into the woods anymore."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Huh?",
+                "Who are you?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "But back then I too was just an old yamainu."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "...I've been sensing some strong magic."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "It's coming from that pendant on your neck."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "What <i$is> it?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "This?",
+                "Lady Saki gave this pendant to me."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I don't know what it really is, either."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "It doesn't belong here.",
+                "This is magic that returns everything back to nothingness..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Damn it, I think this magic item got a hold of me...",
+                "...I'm getting sleepy..."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "...what?",
+                "You're not even close to disappointing me."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "... Where am I?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Where am I?",
+                "What on earth happened...?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "You're awake."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "The further you meddle with this incident, ",
+                "the worse it will get."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "That's why I put you to sleep."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Wh... huh?",
+                "You put me to sleep?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "What the hell are you..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "My name is Zanmu Nippaku."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "The one who shall quell the chaos that besets the surface."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Your selfish actions have been deemed",
+                "a hindrance in my eyes."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "What are you talking about?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "I took down the beasts that plotted the surface invasion!"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "You're also a member of the Keiga Family, aren't you?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "I'm not leaving this to Reimu.",
+                "I'll do away with your little scheme!"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Hehe..."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "You dare mention me under the same breath as those beasts?",
+                "You have no common sense."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "As expected of someone who was charmed ",
+                "by that tiny little jewel."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Well, that was just one of my traps."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Wha-"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Don't make our battle turn out the way I planned."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Overcome that fantasy with all you've got!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "The world keeps revolving as planned."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "What a shame..."
+            ]
+        }
+    }
+}

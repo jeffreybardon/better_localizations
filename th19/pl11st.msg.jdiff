@@ -1,0 +1,643 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "How foolish to think you can best me."
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "Enoko, you here?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Here, Lady Saki!"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "I'm all ready to go."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "The decisive battle's finally upon us.",
+                "Let's do one last warm-up exercise."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Got it!",
+                "But, uh, I don't know if that's really necessary..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Shut your trap.",
+                "Let's do this!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Good, my muscles haven't gone rusty!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I mean, you're never gonna get rusty",
+                "when you spend every day fighting."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Your job's to keep the surface youkai off our turf."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I'm gonna go take care of those thorns in our side."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Looks like I can finally give you a real fight, huh?"
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "To get to the Former Hell of Blood Pools, I've",
+                "gotta go through the Former Hell of Blazing Fires first."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "They really built the Former Hell of Blood",
+                "Pools way out in the boondocks, huh?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Well, Toutetsu's a real grouch.",
+                "I bet she likes the privacy."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh my oh my."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Just when I think it's Okuu, here comes some other character!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Saki Kurokoma, matriarch of the Keiga Family!",
+                "And you must be..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Toutetsu's rumored associate..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "The chupacabra!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I'm not some weird youkai like",
+                "a chupacabra or something!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "I'm a tenkajin!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "I was told to off any of Toutetsu's",
+                "enemies without a second thought."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "|\t\t,\tThe Keiga Family\t,You guys",
+                "The Keiga Family are enemies, right?",
+                " <i$Right!?>"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "How was that?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I surrender, I surrender!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I might even take out Toutetsu at this rate.",
+                "She's up ahead, right?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Man, the rumors said",
+                "the Keiga Family is full of meatheads."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "But, you're more like <i$super> meatheads.",
+                "I don't hate that."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Oi, oi, is the Keiga Family just a bunch of small fry?"
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Eww, what kinda beast wants to live here?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Oooii, Yuuma!",
+                "I know you're here."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Who's there?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Oooh, if it isn't Saki."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "This awful place...",
+                "It suits you perfectly."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Hmph, no-one's going to lay a finger",
+                "on land that's this cursed."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Not that I'm willing to share it with anyone."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Yeah, you can keep it."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Anyway, let's get cooking."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "My ingredient here has \"I'm here to fight\" written on their face."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "And my menu tonight says \"horse sashimi and yakitori\"!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Game over!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I'll admit defeat this time."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You made it to me fair and square,",
+                "and you beat me in a proper fight."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "But tell me...have you made",
+                "your move on the surface yet?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yeah, the operation's just begun."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Have you not realised it yet?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "The enemy here isn't me,",
+                "or Yachie, or even Reimu."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Hmph."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "You dare make a fool of me!?",
+                "I won't allow you to be this pathetic!"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "The enemy isn't Yuuma, or Yachie,",
+                "or even Reimu?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "The heck does <i$that> mean?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Whatever. I just heard that Enoko",
+                "got taken down by Yachie."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "First things first, I've gotta get some payback!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Ah, you're..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "The matriarch of the Keiga Family, Saki Kurokoma!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I heard you were planning to",
+                "fight Lady Yachie."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Sounds like you already know",
+                "what I'm doing here."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Alright, I wanted a chance to fight",
+                "one of the matriarchs!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Brace yourself, horsegirl!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Game over!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Well, what was I expecting?",
+                "Of course the boss is gonna be strong."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Y'know, it's a real shame."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "A real shame?",
+                "What is?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The Kiketsu Family doesn't make the most",
+                "of talented fighters like you."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I really wanted you on my side."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Eh? Weak!"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "What did you say?",
+                "A human approached Enoko while she was hurt and <i$vanished>?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Got it, dispatch more wolf spirit reinforcements",
+                "and have them monitor the situation."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "What the heck happened to Enoko?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Hey, are you here?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Looks like you've also come prepared."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I can't wait any more."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I've heard that you beat Enoko.",
+                "Senseless, by the sound of it."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I was just about to seek revenge",
+                "from you, anyway."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "By the way, your monkey was much",
+                "weaker than I thought. I'm so disappointed."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Y-you beat Biten!?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "I won't forgive you.",
+                "Get ready!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "In this world, the strong trample the weak!",
+                "In the end, only the cruel and ruthless will prevail!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Hoho, not so tough when you fight",
+                "fair and square, are ya?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Kuh. I should've aimed below the belt."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No... it's just, why did you do it?",
+                "Why Enoko...?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Fine. I'll set aside my shame and ask for your opinion."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "......"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "You've got nothing but your strength going for you."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Really, is that so?",
+                "Why didn't I notice?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "You were there from the start, weren't you?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Hey, this is your handiwork isn't it!?",
+                "Lady Zanmu!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "So, so slow."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "You've kept me waiting for so long,",
+                "O matriarch of the Keiga Family, Saki Kurokoma."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I heard the trap you set on Enoko",
+                "was a teleportation trap."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I decided to try it out myself,",
+                "|\tand I ended up \t,\tin Hell\t,here",
+                "and I ended up in Hell."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "You were the one who introduced me to Enoko",
+                "in the first place, right?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Well, that kind of roundabout scheming",
+                "couldn't be anything but yours."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "In short, you're saying you're trying to take",
+                "over my Keiga Family, yes?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Utterly despicable!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Hmph."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "You mongrels of the Animal Realm",
+                "were too slow to notice."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "But..."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "I want control over the Keiga Family?",
+                "What a moron."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "All along, you've been dancing in the palm of my hand!",
+                "Do you understand, lowly beast!?"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "If you don't win here, everything will be lost."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You'll fight me until you win."
+            ]
+        }
+    }
+}

@@ -1,0 +1,611 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "All right, it's just about time.",
+                "Now, where is Gensokyo's own Great Sage, Equal to Heaven?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Hm? You called?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Is it finally time to conquer the surface?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You're quick to seize an opportunity."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I've recruited such a reassuring ally, and one of flesh, too.",
+                "Now, let's begin."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "This will be our final training session.",
+                "Come at me!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Ah, I knew you were here for a fight."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Okay, that's enough."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I need you to work with the beast spirits to defend our territory once we've taken it."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Understood!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Then what will you do, Lady Yachie?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I will pay the Keiga Family and the Gouyoku Alliance a visit.",
+                "To keep them in their lane."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I'm particularly interested in the Keiga Family.",
+                "Their new friend looks rather capable."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Doesn't this opportunity seem <i$too> ripe to you?"
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "This is the place from the rumors, but..."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Oh! With that long, scaly tail..."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Could it <i$really> be?",
+                "Matriarch Kicchou of the Kiketsu Family!?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "But why would she come here?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Hah, this opportunity is already ripe.",
+                "You, ancient wolf pup."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Let the feast begin!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Lady Saki's not going to stay quiet now you've pulled this crap!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Of course she won't."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Because that's part of my plan."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Ah, you almost frightened me."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "As I thought, the law of the wild runs in our blood."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "An active battle really gets the blood pumping and the body jumping."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Oh my."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "It's strange to see Yachie come out here herself."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I grew tired of waiting."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I've heard that you beat Enoko.",
+                "Senseless, by the sound of it."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I've been looking to pay it back to you. ",
+                "I already have, actually."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Your little monkey hermit came a-knocking, but she couldn't hold me up long.",
+                "She was weaker than I expected. A disappointing showing, really."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "What did you do to Biten!?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I won't forgive you.",
+                "Get ready!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "In this world, the strong trample the weak!",
+                "In the end, only the cruel and ruthless will prevail!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Hm? Done already? Have you gotten <i$this> weak?",
+                "I'm so disappointed..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Kh—",
+                "Sorry, I just couldn't focus on the fight."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Did something happen?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "No... it's just, why did you do it?",
+                "Why Enoko...?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "......"
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Looks like I was more ruthless!"
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "I heard Yuuma also made a new friend."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "How unusual for that loner."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "There were a lot of reports she's here but..."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Heeey, chupacabra!",
+                "Are you here?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Who's there?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I'm not some weird youkai like",
+                "a chupacabra or something!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I'm a tenkajin!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oh, is that so?",
+                "My sincere apologies, chupacajin of the Gouyoku Alliance."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "To bring up the name of the Gouyoku Alliance...",
+                "Just who are you?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I am the Matriarch of the Kiketsu Family,",
+                "Yachie Kicchou."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Ah, the Kiketsu Family...",
+                "Now it makes sense."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "I was told to off any of Toutetsu's",
+                "enemies without a second thought."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "|\t\t,\tThe Kiketsu Family\t,You guys",
+                "The Kiketsu Family are enemies, right?",
+                "<i$Right!?>"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "All right, that's the game!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "As expected of the Matriarch...",
+                "By the way, how do you keep your tail so glossy?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Oh, that? Here's my secret:",
+                "I'm early to bed and early to rise."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Right, I'll go to sleep early too.",
+                "I'll start right now!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "When I heard Yuuma made a new friend,",
+                "I thought the world had gone mad."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "But now, I get it."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "What do you mean?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "You two are cut from the same cloth."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Wow, what a letdown.",
+                "The Kiketsu Family head is way too weak."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "I'm almost done making the rounds...",
+                "Yuuma Totetsu's the last on my list."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "It doesn't seem like she's shown her mug in the Animal Realm lately."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I need to brace myself."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oooh,",
+                "If it isn't Yachie?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "You finally feel like starting."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "By the way, I heard about Chiyari."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Meh. If she can't win, that's her problem."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "How cold.",
+                "Is that attitude appropriate for a leader?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "If anything, it's a kindness.",
+                "To flatter the weak into suffering for you is more cruel."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Well, it's not good to meddle in the policies of other groups."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Enough talk, it's high time we get to fighting."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "I'm itching to grab that tail of yours",
+                "and show off my giant swing!"
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "So long'a Yachie!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Game over!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I'll admit defeat this time."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "That aside, you're acting weird."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You're not the type to go out looking for a fair fight."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You're quite right about that.",
+                "Maybe this incident's turmoil is driving me mad, or maybe..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Oh, so you've noticed too.",
+                "Someone is working behind our backs."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Well, <i$that's> a relief."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Battle is the best spice."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "It took a lot of time, but I've finally",
+                "tracked down a route here."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Wherever you're hiding, come out. I have words."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "To hide is an oni's duty."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "What business do you have here,",
+                "O Yachie Kicchou, Matriarch of the Kiketsu Family?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Funny story. You know Biten's staff?",
+                "I noticed it's actually a teleportation trap."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Since she was an asset to the Family,",
+                "I had figured I would let it slide."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "But then, would you believe it, I found the",
+                "<i$same> trap on the Keiga Family's new dog."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Is that so strange? ",
+                "These are dangerous times. Traps lie in wait everywhere."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "The story of that monkey in the sanctuary,",
+                "I first heard it when you..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "No, more than that. Only someone like you",
+                "would devise such a roundabout scheme."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "You'll have the three Families kill each other so <i$you> can gorge on the fruits of <i$our> labor.",
+                "Are you <i$that> hungry?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Hmph."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "You mongrels of the Animal Realm",
+                "were too slow to notice."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "The fruits of <i$your> labor?",
+                "Don't make me laugh."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Why do you worthless creatures not understand?",
+                "All of it, from the very start, belonged to me!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Do you wish to challenge me again,",
+                "Kiketsu Yachie?"
+            ]
+        }
+    }
+}

@@ -1,0 +1,848 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's a ridiculous idea to try and defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Ah, Miiiss Reimu?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "M-Miiiss?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Wow, you're really Miiiss Reimu!",
+                "Is there another incident?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You're like way too nervous."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The animal spirits are excited."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I wonder if the incident is influencing that."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Where are you trying to go,",
+                "Miss Reimu?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I don't need to tell you."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Heeh, you're going to the beast world?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Huh?",
+                "What's that...?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "I heard some whispers just now."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Be careful!",
+                "There will be a trap for sure."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Well, I have to stop you right here!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "I'm getting excited!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I haven't left the shrine for so long!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Who's that?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Oh, a komainu."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Hm?",
+                "Aren't you a moon rabbit?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I'm surprised you've heard of us."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Well, I learned about you from a friend."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ah well, you don't have the thing I'm looking for."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "So you're no use to me.",
+                "Get outta my sight!"
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Aagh, where could I have dropped it?"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Welcome to Earth!",
+                "Hope the landing wasn't too rough."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Someone's talking about you.",
+                "I don't think that happened before."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Mugh..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Hm, I really think it's a trap!"
+            ]
+        }
+    },
+    "6": {
+        "34_0": {
+            "lines": [
+                "I knew it, now you're here too!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The spirits have been quite busy, you know."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I can't just sit around and do nothing!"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Oh, a beast youkai!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Wait, you're that komainu, Aunn."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Komainu are the servants of gods,",
+                "so I guess you <i$technically> aren't a beast youkai."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "What's a shrine maiden doing in a place like this?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Exorcising beast youkai."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Why are you doing that?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Because they're there."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Here it is!",
+                "That Gensokyo specialty, the unreasonable shrine maiden!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I'll take you out before you take me out!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Why are shrine maidens always so violent?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "What's wrong?",
+                "You went quiet all of a sudden."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "There it is again...",
+                "A voice whispering into my ear..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Well, exorcising her was probably the right thing to do."
+            ]
+        }
+    },
+    "9": {
+        "34_0": {
+            "lines": [
+                "Kyah, a rat!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The temple's rat even!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Isn't that great? Even as a mouse"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I prefer cats, and",
+                "I'm not scared of dogs."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I don't like going to the temple!",
+                "That incense is strong."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Hm, I see."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Wow, it's so noisy all of a sudden.",
+                "What's going on?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Oh, Aunn."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "What are you doing here of all places?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Ah, Miiiss Reimu?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "M-Miiiss?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "It's like there's this sound I can't stop hearing."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Wow, you're really Miiiss Reimu!",
+                "Are you working on the incident?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "You're acting awfully...excitable."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "And the beast spirits are agitated as well."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "It looks like the incident's having an effect on you."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Go back to the shrine and stay put!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "There's no way I can stay put when it's so noisy!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Well, try not to give the shrine a bad name."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "I have to hurry up and exorcise the beast spirits."
+            ]
+        }
+    },
+    "12": {
+        "34_0": {
+            "lines": [
+                "Who could you be?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You ask who I am?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You'll know when I dominate you,",
+                "whether you like it or not!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Uwah!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I heard a voice whispering in my ear,",
+                "so I've been trying to listen to it."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "And it's been so much fun!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Whispering?",
+                "Lemme have a look."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "What?",
+                "The tanuki in front of me is an enemy?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Okay, I'll take her out!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "There's a fox in your hair!",
+                "It's a tube-fox!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Oh wooow, really?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Ahahaha.",
+                "Who would've thought Sanae was into that kind of stuff?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "...Eh?",
+                "A tanuki?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Heya."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "What are you mumbling about all to yourself?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Hey, you're in big trouble.",
+                "Inside your hair..."
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "What's a tube-fox plotting, steering the shrine's komainu?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You want me to leave right now?",
+                "Got it!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "A tube-fox...",
+                "That's another pain in the neck."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Once you're possessed, it's all over.",
+                "They'll manipulate you until you're a goner."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Awwright, you're lucky I happened to run into you.",
+                "Let's put a cork on that tube-fox."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "I nearly got murdered by that tanuki."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "...What is it now?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Eh? I have to break in the guy who's about to show up?"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Break them in...",
+                "Are they a beast or something?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Who's there?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "W-who are you?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "My name is Son Biten!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "You want me to break <i$her> in?",
+                "Uh, that's not happening."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Prattling to yourself in my sanctuary!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "The Heavens of Gensokyo are within my grasp!",
+                "You would do well to grovel!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "You've been talking to yourself for a while.",
+                "Just who are you?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Oh, I'm Aunn.",
+                "The shrine's komainu."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "What? Komainu?!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Do you know what I hate more than anything else in the world?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Why would I?",
+                "We've never met before."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "What I hate are dogs!",
+                "And a dog who talks to herself is even worse!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Get out of my face, shrine-dog!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Hold up, I was kidding, kidding!",
+                "Just playing around a bit!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "By the way, are you with the Moriya Shrine?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "No, I work at the Hakurei Shrine."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Aaah, that place.",
+                "Well, this is a surprise."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "A surprise? Why?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Eh? The Moriya Shrine...?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Y'know, acting out the clichés about dog-monkey relationships."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "I feel a certain youkai presence coming off you.",
+                "I felt the same presence at the Moriya Shrine."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Have I gone there recently?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "This might sound rude, ",
+                "but you're definitely being manipulated!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "M-manipulated...",
+                "I think I know what you're talking about."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "There aren't many people who'd resort to dirty tricks like these."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Only one comes to my mind!"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Who? And where?",
+                "I'm gonna interrogate them!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "They're in Hell!",
+                "Go to Hell!"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Hold up, I was kidding, kidding!",
+                "Just playing around a bit!"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Hell is really big, you know that?",
+                "Where exactly are they!?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I can't hear the whispers anymore."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Which means they must be close."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Good job."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "You've really helped my cause."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Ah, I think I've met you before."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Matriarch of the Kiketsu Family,",
+                "Yachie Kicchou."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "For your information, Son Biten is my lackey."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "She did well by luring you here."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "So you're saying that monkey lied to me?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Reimu has her hands full investigating the incident."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "And you're the Hakurei Shrine's guardian beast.",
+                "So now that I've lured you out,"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "The shrine is mine for the taking!",
+                "It'll be my first step towards conquering the surface!"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                ".....Oh dear."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "This whole time, I've had you in the palm of my hand!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "......Ah-hah-hah!"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Why are you laughing?"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "What a short-sighted trap!",
+                "Should have expected that from a beast."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Even if you've lured me out,",
+                "the shrine won't be any different."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "You didn't know?",
+                "Komainu come in pairs; there are two of me!"
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "I see..."
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "T-that level of miscalculation is totally normal."
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "Still, I went as far as using that tube-fox to lure you out."
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "I only intended to capture you,",
+                "but I think it's time for a change of plan."
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "You'll die here!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "All's well that ends well."
+            ]
+        }
+    }
+}

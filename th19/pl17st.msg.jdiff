@@ -1,0 +1,553 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "You're a fool if you think you can defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "Fufufu...so many souls on the surface,",
+                "just waiting to be led into Hell."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "What are you doing out of Hell!?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Ah, Miss Reimu.",
+                "I've been looking for you."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Gah, I've got a bad feeling about this...",
+                "I'd better get out of here."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Fufufu.",
+                "Do you truly think you can escape?"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Guess it can't be helped...",
+                "What do you want?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Lady Zanmu humbly requests your presence."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "And just why should I go along with that?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Very well.",
+                "Another match, then?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh, <i$come on...>"
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "I'll make it worth your while..."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "I believe the sanctuary should be around here."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Are there any guides like me on the surface?",
+                "I wonder."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Y-you're..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "The guide of Hell!",
+                "You thought you could get away with tricking me?!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Deciding where you should end up is",
+                "one of my responsibilities as a guide."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Master Zanmu was mad at me for not showing up."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "And it's because you didn't do your job!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "If you want to meet Lady Zanmu,",
+                "you're 10 years too early."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Tch..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So, what are you doing here?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I have good news for you today."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I will take you to meet Lady Zanmu."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Huh? First you say I'm 10 years too early,",
+                "and now you say you're gonna bring me to her anyway..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "You Hell dwellers...",
+                "You really just do whatever you want."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Ahh, that was refreshing."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Now then, who's next?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Ah! You're..."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "...that guide from Hell?!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You didn't show me around properly the other day.",
+                "I had a lousy time, you know!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "What makes a 'proper' guide ",
+                "is a matter of personal opinion."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Shut it!",
+                "If you're a guide, then act like one! That's all there is to it!"
+            ]
+        }
+    },
+    "10": {
+        "4_0": {
+            "lines": [
+                "Well, I guess this is fine.",
+                "I don't <i$need> to meet Master Zanmu."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I'm glad my guidance ended up helping you."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "By the way, why are you here?",
+                "What's a guide from Hell doing on the surface?"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "I have good news for you today."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "I will take you to meet Lady Zanmu."
+            ]
+        },
+        "44_0": {
+            "lines": [
+                "<i$Huh?>",
+                "What the heck are you..."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "No, there's no point in getting mad.",
+                "That's just how this place is. Nonsensical..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Well, I guess this is fine."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "People have been calling that tenkajin",
+                "a 'Chupacabra' lately, for some reason."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I can see why.",
+                "It's a lovely name."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Aah! You are..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "...that yomotsu-shikome?",
+                "Did I come to New Hell by mistake?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I've come to take you to Lady Zanmu."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Huh? What are you saying?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "You really think I'm gonna buy a story like that?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Besides, I don't think I want to meet her anymore."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Hah! Do you think you can escape me?"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "I'll never let you get away!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "All right, all right!",
+                "We'll just meet up with Zanmu and that's it, right?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "That's right.",
+                "Don't be late this time."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You sent me the wrong way last time, though!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh, did I?",
+                "Fufufu."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "That was refreshing."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Ahh, what could Lady Zanmu need <i$this> person for?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I really don't feel like giving this one a proper tour."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Maybe I'll just take her to that other oni again."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Hey, hey, don't do that!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "If you break one more promise, I'll bet",
+                "even Zanmu's gonna get mad at you."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "And I'd be annoyed as well."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Oh, Miss Suika.",
+                "How long have you been here?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I've been watching to make sure you aren't",
+                "just acting out on your own."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "But it turns out you are.",
+                "And that's good enough for me!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "What's so wrong about doing what I want?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Well, not much, really."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "But she'll get angry with you."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Haa...",
+                "Angry...you say?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I <i$want> her to be angry with me!",
+                "Lady Zanmu!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...Oh, boy."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Hell really is the land of the self-indulgent."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "...haa...haa..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "As promised, I've brought everyone here."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "My apologies for the trouble."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Hisami, you may take a break."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Haa... haa..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "...what's the matter?",
+                "You can leave now."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Um, aren't you going to scold me?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Hm? Scold you?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "The truth is, I led the people you asked",
+                "me to gather to another oni instead."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I humbly apologise for my actions.",
+                "But regardless, surely you'll scold me for..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Hmph."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Did you truly think you were acting of your own volition?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Your little transgression was part",
+                "of my plan from the beginning."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Everything rests in the palm of my hand."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Wha-",
+                "That's...just what I was thinking!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Either way, you'll be rewarded."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "With the greatest prize this wretched Hell can offer!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Hmph. That was pathetic."
+            ]
+        }
+    }
+}

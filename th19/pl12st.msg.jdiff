@@ -1,0 +1,531 @@
+{
+    "3": {
+        "4_0": {
+            "lines": [
+                "Heeey, Chiyari!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Yessss?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Why're you bothering me at this hour?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "\"At this hour?\" What time do you think it is?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Uh, what time is it?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "How am I supposed to tell from down here?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Oh, right."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "What matters is, now is our big moment!",
+                "Get your head in the game!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "You mean, it's time for the decisive battle?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Well, something like that.",
+                "My enemies might come to mess with you."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So be ready."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Pwaaaah, I'm sleepy..."
+            ]
+        }
+    },
+    "6": {
+        "116_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "How did that kinda friendship come to be?",
+                "I want to know..."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "So that monkey is Yachie's foothold."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Are you perhaps...",
+                "The head of the Gouyoku Alliance, Yuuma Toutetsu?!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "If you've come, then that means...",
+                "It's finally begun?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Keh heh heh, you're an energetic youth.",
+                "As expected, <b$freshly-awakened> youkai are something else."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "The decisive battle begins!",
+                "To start, I'll take you out in style!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "So, your name's Biten?",
+                "How'd Yachie sink her hooks into you?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "That is to say, I owe her my life."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "The biggest psychopath in the animal realm",
+                "saved your life, huh?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "When I was on the cusp of falling to Hell,",
+                "Lady Yachie extended a helping hand."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Huh....",
+                "But she looked so strong..."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Heeeeeey, Yachie!",
+                "Are you in?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Who is it?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Hm hm hm, finally."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Hm? If it isn't Yuuma.",
+                "What are you doing, taking center stage?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You're calling the Riverbed of Limbo center stage?",
+                "You don't even have anywhere to stand on."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "What? It was that or the Former Hell of Blood Pools..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ah, sorry 'bout that.",
+                "The Riverbed of Limbo will make a fine stage."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Anyways, the decisive battle got sparked off."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "By yours truly."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Be sure to come at me with your best!",
+                "Then surpass even your best!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "Well, I guess that was okay.",
+                "By Kiketsu Family standards."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Tsk!",
+                "I can't fight at my best when it's fair and square!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Heh, right you are.",
+                "Only wimps pride themselves on fighting fair."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Sorry you couldn't show off your strengths.",
+                "I really mean that."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Bah, what a disappointment."
+            ]
+        }
+    },
+    "12": {
+        "12_0": {
+            "lines": [
+                "She never had a good eye for talent, but..."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "So that old yamainu is Saki's foothold."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Oh, those distinctive looks could only be..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "The head of the Gouyoku Alliance, Yuuma Toutetsu?!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "That means you're my enemy.",
+                "Great!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I was told to crush all our enemies, without exception."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "That's the Keiga Family for you.",
+                "They taught you good."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "In this world, it's survival of the fittest!",
+                "If you're weak, then you should just die!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "S-So strong...!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "By the way, how'd you become one of Saki's followers?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Ah, it was the power Lady Saki held that saved me",
+                "from falling into Hell."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "So you could say I owe her my life."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hell... You owe her your life...",
+                "Now where have I heard that before."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "It's like deja vu."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "The Gouyoku Alliance is pathetic!"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "What are you thinking, Saki?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I guess I'm not one to talk,",
+                "but you've been befriending a pretty shady youkai."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "What I think?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I don't have any problems."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Apart from the fact that you're here, Yuuma.",
+                "That's a pretty big problem."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Were you trying to get into a fight with me,",
+                "deliberately going after my foothold like that?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Yeah, so the decisive battle's come to a head!",
+                "Once I take you out, it'll end things for now!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Very well! I'll show you the power and speed",
+                "of the top beast!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "You're as tough as ever, Yuuma."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "What's wrong?",
+                "Got something on your mind?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Yeah, I've already resolved myself."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Guess I should head over to her."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "You've lost your edge!",
+                "Train harder!"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Those fights back there made up my mind."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Something's felt off about this from the start,",
+                "but those two aren't to blame."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "And Chiyari's in on it too, without a doubt."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Took you long enough to notice!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "If that's the case, it has to come from whoever's behind",
+                "Biten and Enoko."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "These people all have something in common: Hell!",
+                "And your instigation! Zanmu Nippaku!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Does one need this level of instinct to make it",
+                "as a top dog of the Animal Realm?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I thought that teleportation trap of Chiyari's ",
+                "was suspicious from the moment I found it."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "It was a sign someone was manipulating",
+                "the incident behind the scenes."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "At first I thought Yachie, or maybe Okina,",
+                "was that someone."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "What are you scheming?",
+                "To conquer the surface?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Hm-hmm."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Nowadays, I want nothing from the surface.",
+                "Unlike you starveling beasts."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "It is the future that I want.",
+                "I've manipulated everything to create that future."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "But no, it was you, Zanmu."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "You have no choice but to live in the palm of my hand!",
+                "Understand, you wretched beast!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "You can't change anything",
+                "if you're that weak!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "This is frustrating..."
+            ]
+        }
+    }
+}

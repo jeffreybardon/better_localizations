@@ -1,0 +1,880 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's ridiculous to think you can beat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Oh dear,",
+                "not the shrine maiden!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "A moon rabbit!?",
+                "Fine, I'll beat you up on the way."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Go ahead and try me!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Earth is so full of impurity."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "But it's so pleasant here."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "This place isn't like that Lunar Capital.",
+                "I so wanna live somewhere like this!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I feel like I could beat anyone right now!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Even this rabbit lady here!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Let's fight!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "There's some quarrelsome youkai here too! Yes!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "I wonder, is that the influence of",
+                "impurity after staying here for so long?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "'Cause that's maybe a little bit embarrassing."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Look, I did it!"
+            ]
+        }
+    },
+    "6": {
+        "34_0": {
+            "lines": [
+                "Hey, miss rabbit.",
+                "I don't feel like losing to anyone now~"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hehehe, me too!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I'm also in a fighting mood!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "By using this Lunar Jewel, I should be",
+                "able to make a comfortable spot to live."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I've got to be careful not to lose it."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Ah, that's that forest magician over there!"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Everyone says she's got a habit of stealing",
+                "things. I have to be careful."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Oh, isn't it the moon rabbit?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Your face tells me that you've got something to hide."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Don't tell me you're holding onto some valuable",
+                "moon item or something?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Kuh, I'll beat you up before you do!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "I have to be always on guard here on Earth."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It's scary if that's what",
+                "impurity can do."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Is this the Lunar Capital's scheme?",
+                "It's unlikely, but..."
+            ]
+        }
+    },
+    "9": {
+        "34_0": {
+            "lines": [
+                "Ah, it's the magician of the forest."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Everyone says she's got a habit of stealing",
+                "things. Gotta be careful."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Oi, stop doing that \"hiding something\" kinda face!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Say, aren't you that moon rabbit from a while ago?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Kuh, I'll beat you up before you do!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "That's a treasure hunter!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I might have to skillfully change the topic,",
+                "so she won't find out about the jewel."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "My treasure-sensing rods are picking up a faint signal."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "It looks like the treasure could be around here!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Huh... I think I know you."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "You're Tesso, right?",
+                "I heard the rumors about you."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Eh?",
+                "No, I'm not."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Eh?",
+                "But I heard you live in the temple."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I live there, but you're mistaken.",
+                "I'm not Tesso."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Since you live in a temple,",
+                "isn't it the same thing?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "What's with all this useless bickering?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "...No, wait.",
+                "My rods are still picking up that faint signal."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "...I see."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "You have the jewel, don't you?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Eh? Jewel?",
+                "I've got nothing, I swear!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Enough bluffing!",
+                "I'll just force the truth out of you!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "This rat doesn't know when to give up!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I'll have to use my ultimate technique!",
+                "Lie with flattery!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I'm amazed by your sharp sense of smell!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I <i$did> have the jewel",
+                "not too long ago."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "But I wanted to hide it from",
+                "a treasure hunter like you."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "So I just made a good trade with",
+                "someone else who wanted it..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "What?",
+                "I really don't have it!?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Uwah!? Did I really drop it mid-battle!?",
+                "What am I gonna do..."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "I knew you were suspicious."
+            ]
+        }
+    },
+    "12": {
+        "34_0": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "That's a treasure hunter!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I don't want anyone to know about the jewel.",
+                "I have to talk my way out of this."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Hey... you."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Tesso?",
+                "I heard the rumors about you."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Eh?",
+                "You've got it all wrong."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Huh?",
+                "But I heard you live in the temple."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I live there, but you're mistaken.",
+                "I'm not Tesso."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Since you live in a temple,",
+                "isn't it the same thing?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "What's with all this useless bickering?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "...No, wait.",
+                "My rods are picking up a faint signal."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "......That's right."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "You have a jewel, right?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Eh? A jewel?",
+                "I don't have any!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "I had enough! If I have to search you",
+                "to restore my power, I will!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "...I see, I see."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "The moon rabbit is asking me to find a lost item."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "I asked that treasure hunter mouse too,",
+                "but I don't really trust her."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "From what I heard, finding a lost item is a cakewalk",
+                "for a tube-fox like you who's skilled at delicate work."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "I'll take the job, but my help won't come cheap."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "I'm sure I'll figure something out for the money!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Please do it for me.",
+                "Misuse of that Lunar Jewel is a very serious matter."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Also, I have one more condition."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I don't handle tasks from weaklings."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Because the weaklings always spill the beans",
+                "with a little interrogation."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "I hope you aren't one of those."
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "Is that enough for you?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Take my job request already!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "If that Lunar Jewel were misused..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Hey, hey, who do you think I am?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Your job is already done."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "I dispatched one of my associates mid-battle.",
+                "They've already found something like your item."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Seriously?",
+                "Where, where?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "It seems a beast youkai in the ",
+                "Forest of Magic is holding onto it."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "She's already gone."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I was about to tell her the other candidate. Nevermind."
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Being a weakling is bad you know."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "The Forest of Magic is so big!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Wouldn't it be nice if I found it right now?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Oh, a rabbit."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "You're not my target, looks like.",
+                "It's dangerous 'round here, so go home."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ah, that pendant!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Hn?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "That's my jewel!?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "It's mine."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "It's an important jewel I got from the matriarch."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Kuh, can't get it back without a fight it seems!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "What is your problem?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I just wanna take a look at your pendant."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I think it was mine..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You can have a look."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "But even if it's yours, I won't hand it over!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Guh...",
+                "J-Just show it to me already!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "I'm <i$not> giving it, you know that?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I know, I know."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "It..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "It isn't mine!? But it looks the same!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Then...?",
+                "What happened to my jewel...?"
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "What is your problem?"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "......Ow ow ow—",
+                "My head hurts!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "What happened?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "I've never seen you before."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I'm Saki Kurokoma, matriarch of the Keiga Family.",
+                "Who are you?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Seiran.",
+                "I'm a moon rabbit so scary that I can silence a crying child."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "A moon rabbit!?",
+                "But you're the one crying here. What gives?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I can't help it. This place..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "This place has some scent that I never felt before. It's agonizing."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Aah, I see now.",
+                "You moon rabbits aren't used to it."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "This is the scent of death.",
+                "It'll feel good when you get used to it."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Scent of death!?",
+                "What on Earth is this place..."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "You still don't know after you've seen it?",
+                "How innocent."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "This is Hell,",
+                "where the exceptionally wicked fall."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Hell!?"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "So, what did you do?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "That's a harsh sentence!",
+                "I only lost a jewel!"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Lost a jewel...",
+                "A-hah-hah-hah!"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "There's no way you could fall to Hell",
+                "with such a minor evil!"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "B-but—"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "If you insist, I'll",
+                "help you out."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "You moon rabbits are rare beyond comparison."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "It'd be a waste to leave you be possessed",
+                "by boring vengeful spirits in such Hell."
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "You'll help me?",
+                "Yay!"
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "But, you'll have to face me",
+                "in a fierce and decisive battle."
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "There's no value in helping you",
+                "if you're weak beyond saving,"
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "That kind of person again."
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "It's alright.",
+                "I'm already used to the deathly scent!"
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "It's like that crying rabbit isn't here anymore."
+            ]
+        },
+        "344_0": {
+            "lines": [
+                "That's promising, show me all you've got!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "A shame. You've got nothing worth helping."
+            ]
+        }
+    }
+}

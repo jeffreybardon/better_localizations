@@ -1,0 +1,839 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Me too."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "I won!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Hey, Reimu!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I heard there's something strange going on!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You'll know it when you see it!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Animal spirits are seriously going on the offensive.",
+                "I expected that, but..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "It must be the work of the",
+                "beast world's outlaws!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Animal spirits?",
+                "Offensive?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Did you get enough sleep?",
+                "This isn't the time to joke around!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "The problem is who owns this land!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "When those wealthy spirits just",
+                "gave up the ownership of the land"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "it was suddenly abandoned.",
+                "It's a good chance, not a crisis!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "I gotta get whatever I can before",
+                "any greedy spirits show up and take over!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "......I see."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "You're on that side huh."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Marisa, you wake up!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "All the humans are losing their minds and sense of reason!",
+                "They've given in to their primal instincts!"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "You're already a beast.",
+                "I'll exorcise you!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "The beast spirits are present even in the village..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Those guys from the Animal Realm still",
+                "haven't given up on conquering the surface, I see."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I have to hurry before things get out of control!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Oh, wow! Miss Reimu?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Even a komainu?",
+                "What are you doing here?!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "All those spirits are causing a ruckus!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "My bestial blood is telling me to act!"
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Subduing beast spirits is <i$my> job."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Would you go back to the shrine, please?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I can't think of anything but that."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Those beast world guys are always",
+                "trying to rule the world."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Is that so? Well, best of luck to you."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I just have different thoughts, y'know."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Ahahaha!",
+                "Guess I won!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Do you think looking all smart",
+                "won't dull your powers?"
+            ]
+        }
+    },
+    "6": {
+        "34_0": {
+            "lines": [
+                "How did you get here, komainu?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The spirits have been quite busy."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "It's the beasts' excitement!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "There's an especially noisy",
+                "commotion near the mountain..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "I should investigate around here."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Gah! The shrine maiden!?",
+                "I've stumbled into a real menace."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I better scram!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Why are you running away?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Up to no good, aren't you?!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "It looks like this is more serious than I thought.",
+                "Even a lowly mouse that's never seen the Animal Realm is involved."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Perhaps it isn't just beast spirits",
+                "that are trying to invade..."
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "The shrine maiden's onto me!",
+                "I better hurry!"
+            ]
+        }
+    },
+    "9": {
+        "34_0": {
+            "lines": [
+                "Th-the shrine maiden!?",
+                "I ran into someone dangerous!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Gotta run!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Why are you running away?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Up to no good, aren't you!?"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Hey, Reimu!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "The situation around here's gotten real dire."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "I'm not blind, you know!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I expected an all-out attack from the beast spirits, but..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "It must be the work of those",
+                "outlaws from the Animal Realm!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Beast spirits?",
+                "Attacking?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Are you half asleep?",
+                "That sure isn't what's important!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Land ownership is the actual problem here!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "There was land some rich spirits weren't",
+                "ever going to give up."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Suddenly, they abandoned it.",
+                "This is an opportunity, not a crisis!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Let's take some of it before",
+                "the greedy spirits take over!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "...I see."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "You're on <i$their> side, aren't you?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Open your eyes, Marisa!"
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "If you've given up your human intellect and",
+                "surrendered yourself to the law of the jungle..."
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "...you're already a beast.",
+                "I'll exorcise you!"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "You won, you won!",
+                "I surrender!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Anyways, beast spirits? You think the ",
+                "mastermind's from the Animal Realm, Reimu?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I can't think of any other possibility."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Those guys in the Animal Realm were always",
+                "trying to take over the world."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I see.",
+                "Best of luck to you!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I have other ideas."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Bye now!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I think you busied yourself too much with the thought",
+                "that pure talent is enough instead of training."
+            ]
+        }
+    },
+    "12": {
+        "34_0": {
+            "lines": [
+                "What is a moon rabbit doing here?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Ah, well, come on."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I decided to take over the Earth?",
+                "Now's the best chance."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "That's an impressive thing to try."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "But dying is better!"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "I thought this was the road to the Animal Realm.",
+                "Is this the right way?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Hey, where do you think you're going?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Huh? Suika?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "You said you're heading to Hell?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "You're as sharp as ever.",
+                "I'm impressed."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "But where did you notice it?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "That the one who set the beast spirits",
+                "after the surface was in Hell, I mean."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Uh, no, I...",
+                "I'm going to the Animal R..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "The masters of those beast spirits are",
+                "in the Animal Realm, right?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "...oh, bother. That's not right."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "No more business with you then.",
+                "Turn back! And quick!"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "What the... Suika, you..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Still as strong as ever."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Very well.",
+                "I'll tell you."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "If you wanna deal with this faster,",
+                "don't go to the Animal Realm."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Huuuh?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Let me welcome you...",
+                "...in Hell!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "And ruin the culprit's plan!"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "You're getting rusty.",
+                "If you go further, you're just going to die."
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Aah, this storm feels familiar..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Feels exactly like Hell."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Well, well, well.",
+                "Welcome to Hell."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You're that famous shrine maiden from Gensokyo, right?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Who are you?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "My name's Hisami Yomotsu,",
+                "The guide of Hell."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "No matter who, no matter when,",
+                "all are welcome in Hell."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "=Now, where would you like to go today?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I... I'm here to stop the beast spirit invasion."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I heard something about a mastermind residing in Hell."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "...just a few moments ago."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Ohoho!",
+                "How did you come to realize that?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "The feast hasn't even started yet."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Still, I'll show you the way."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "And in keeping the spirit of Hell",
+                "I'm going to make you a spirit of Hell!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Aah!",
+                "Fantastic!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I haven't encountered a human so strong in years."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "There's only one other person I can think of."
+                "Her Greatness."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Her Greatness?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "No need to hurry,",
+                "Now, I'll show you the way."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You've been wanting to meet Her Greatness",
+                "from the beginning, weren't you?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Uh, no, I mean, yeah..."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "Then I will guide you, as promised."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "To Hell, of course."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "w@VSEND()"
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "... I've fallen into Hell."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Just by going with the flow."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "You. Living human."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You stand before Zanmu Nippaku."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "What sort of matter brought you to this world of nothingness?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "You are the one who's controlling the beast spirits",
+                "to take over the surface, right?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I, Reimu Hakurei, am here to exterminate you!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Me, controlling beast spirits...",
+                "Taking over the surface...?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Heh-heh-heh."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I haven't committed anything of the sort <i$yet>."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Nor do I ever intend to."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Have you come before me to solve an incident ",
+                "that has <b$not yet even occurred>?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "What on earth are you talking about...?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Don't try to fool me.",
+                "It's just my hunch, but you seem like you'd do something like that."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Ah-hah-hah!"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "You, who have met neither the crazed beast dancing on the mountain,",
+                "nor the vigorous beast waiting in the forest,"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Nor even the blood-loving beast that drinks from ",
+                "the depth of the earth, came straight to me."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "How can one not laugh about this?"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "I like you.",
+                "I'll fight you as you wished, of course."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "You'll remain bewildered by witnessing how this incident resolves",
+                "before you understand why."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Your efforts deserve a suitable reward!",
+                "Feel the bane of nothingness!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "I was a fool to expect anything from <i$you>."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "For a moment, you reminded me of my old self."
+            ]
+        }
+    }
+}

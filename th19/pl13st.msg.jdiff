@@ -1,0 +1,566 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's go!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's a ridiculous idea to try and defeat me!"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "So frustrating."
+            ]
+        }
+    },
+    "3": {
+        "4_0": {
+            "lines": [
+                "It's easy to see all the land around here."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Oho? It's Suika."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "What are you doing here?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I was just watching the surface here."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Why are you acting like I should have some business with you?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "I'm in charge of this area.",
+                "I won't let you run around doing things all willy-nilly without greeting me."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "But I'm just observing things."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "And that's it?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Most of the area has already been overrun by nameless spirits."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You get what I'm aiming at, right?"
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "The tanuki here will take care of it."
+            ]
+        }
+    },
+    "6": {
+        "4_0": {
+            "lines": [
+                "This land that has lost its ownership."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Nameless spirits possess it and return it to its original state,"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "While Zanmu is stalling big time."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "In the end, it's a natural phenomenon. It'll go back to normal over time."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Then this incident happened.",
+                "What have the humans been doing?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Isn't that Suika?",
+                "What are you up to?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I'd like to ask you that myself."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "What have <i$you> been up to?",
+                "Show it to me!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "What do you mean by showing it to you...?",
+                "Hey, what are you doing?"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "Oh, were you investigating the jewel that yamainu had?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Yep. It's a dangerous one.",
+                "It's got connections with an oni in Hell."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Ah, right. You're one of those oni, too."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Do you know who Zanmu is?"
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "I'm surprised.",
+                "I thought you were angry."
+            ]
+        }
+    },
+    "9": {
+        "4_0": {
+            "lines": [
+                "Marisa was splendidly dancing on Zanmu's palm."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "The natural result, huh?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Oh, Suika?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "It's unusual for you to come to the shrine on the mountain."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "What the hell were you doing",
+                "while this incident was going on?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Show it to me!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Show you what...?",
+                "Eek! Wh-What are you doing?"
+            ]
+        }
+    },
+    "10": {
+        "34_0": {
+            "lines": [
+                "You were a negotiator for the Kiketsu Family?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Exactly, I was seriously reflecting on how to",
+                "prevent the warring between the Beast Spirits."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "And before I knew it, ",
+                "the perilous mood had disappeared..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I think we can avoid the war altogether."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Because we at the Moriya Shrine and Miss ",
+                "Biten were working behind the scenes."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Son Biten... Haha, I get it now."
+            ]
+        }
+    },
+    "11": {
+        "34_0": {
+            "lines": [
+                "Ah, that was scary."
+            ]
+        }
+    },
+    "12": {
+        "4_0": {
+            "lines": [
+                "Sanae is on top of Zanmu's palm too, huh?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Who can I depend on here?",
+                "Is Reimu the only one left?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "I hope the advice I gave her at the start",
+                "helped her."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Suika?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Speaking of that, when you gave me that advice,",
+                "I went to Hell, but..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "There was just a weird oni."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "And what did you do after that?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Show it to me!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Show you what...?",
+                "Augh, what are you doing?"
+            ]
+        }
+    },
+    "13": {
+        "34_0": {
+            "lines": [
+                "You did nothing?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "In the midst of all this fuss,",
+                "you haven't made a move?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Because it was already <b$resolved>."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I had assumed that Chimata had forcibly ",
+                "freed the land from all ownership."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "But actually, the land was naturally let go",
+                "as a result of the market god appearing."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "In other words, this incident is a natural phenomenon... ",
+                "The only solution is to leave it alone."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "...Is it natural? ",
+                "|\tOr perhaps it's the \"\t,\tfly through the sky\t,Reimu's",
+                "Or perhaps it's the \"fly through the sky\" ability?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Is Reimu the only one ",
+                "who isn't in Zanmu's palm?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "From this point forwards, I have one last job for you."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "The incident has not been resolved yet!"
+            ]
+        }
+    },
+    "14": {
+        "34_0": {
+            "lines": [
+                "Why did you just do that!?"
+            ]
+        }
+    },
+    "15": {
+        "4_0": {
+            "lines": [
+                "Now all that's left to do is make the final preparations."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Oh, Lady Suika."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Welcome back to Hell."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You know, the other day, ",
+                "you were giving me a hard time."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Was that the time I sent you Lady Zanmu's minions?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "What else could I be talking about?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I thought that Lady Suika would be happy to receive them..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Of course I was!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "But that's besides the point!",
+                "I'll punish you!"
+            ]
+        }
+    },
+    "16": {
+        "34_0": {
+            "lines": [
+                "Oh, I get it."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You want Zanmu to pay attention to you, right?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Weeh."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "No matter what I try, ",
+                "Zanmu won't even turn to look at me."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I took her minions to another place",
+                "and she didn't even say anything about it."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "If that's the case, I've got a good job for you."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "All right, ",
+                "it's time for the big show."
+            ]
+        }
+    },
+    "17": {
+        "34_0": {
+            "lines": [
+                "No matter what I try, ",
+                "Zanmu won't even turn to look at me."
+            ]
+        }
+    },
+    "18": {
+        "4_0": {
+            "lines": [
+                "Well, I guess the party is over."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Hey, Zanmu Nippaku."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Suika..."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "You've been darting around all day.",
+                "You're still a master at hide-and-seek."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "It's about time for your operation to finish, ",
+                "isn't it?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Heheh, what are you saying?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "It's been over for a while."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "By the time you noticed it,",
+                "everything was over."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Seems so."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Your power of imagination to create the future...",
+                "It's always amazed me to see."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "What's that? You came here to flatter me?"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Brawn and brains are what oni are all about."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "You should act a little more like an oni!"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "In this finale, show me everything you've got! ",
+                "Suika Ibuki!"
+            ]
+        }
+    },
+    "20": {
+        "34_0": {
+            "lines": [
+                "Weakness is evil, you know."
+            ]
+        }
+    }
+}
